@@ -1,7 +1,7 @@
 #Bio Labware Review
 
 - [Section 1](#Section-1)
-  * [Fine Weighting Scale/ Microbalance](#Microbalance)
+  * [Fine Weighing Scale/ Microbalance](#Microbalance)
   * [Subsection 2](#Subsection-2)
   * [Subsection 3](#Subsection-3)
 - [Section 2](#Section-2)
@@ -9,7 +9,7 @@
 
 
 ##Section 1 <a id="Section-1"></a>
-###Fine Weighting Scale/ Microbalance <a id="Microbalance"></a>
+###Fine Weighing Scale/ Microbalance <a id="Microbalance"></a>
 ####1. Background
 Precise weighing of chemicals in solution preparation and measuring small samples is essential for any “wet” experiment, containing buffers and other solutions, which need to have a precise composition. Depending on the amounts of source material, the scales require the appropriate precision. For the average laboratory use, a precision of 0.001g or better is favorable.
 
