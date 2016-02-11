@@ -35,7 +35,7 @@ Most DIY related projects are made for simple mechanical balances and while thes
 
 _"[Quartz Crystal Microbalance OpenQCM](http://openqcm.com/)" by "[openQCM](http://openqcm.com/)" is licensed under [CC BY-NC-SA 4.0](http://openqcm.com/)_
 
-####5. Plans
+####5. Plan
 For our purposes, a precision of 0.01-0.001g is satisfactory, therefore we do not plan to make a scale from scratch at this point.
 
 
