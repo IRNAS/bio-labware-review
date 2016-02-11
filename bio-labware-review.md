@@ -11,11 +11,11 @@
 ##Section 1 <a id="Section-1"></a>
 ###Fine Weighting Scale/ Microbalance <a id="Microbalance"></a>
 ####1. Background
-Precise weighing of chemicals in solution preparation and measuring small samples is essential for any “wet” experiment, containing buffers and other solutions, which need to have a precise composition. Depending on the amounts of source material, the scales require the appropriate precision. For the average laboratory use, a precision of 0,001g or better is favorable.
+Precise weighing of chemicals in solution preparation and measuring small samples is essential for any “wet” experiment, containing buffers and other solutions, which need to have a precise composition. Depending on the amounts of source material, the scales require the appropriate precision. For the average laboratory use, a precision of 0.001g or better is favorable.
 
 
 ####2. Comercial variants
-The cheapest weighing scales with the appropriate precision, usually cost 100€ or more, higher quality devices around 300€. Scales capable of measuring differences in the microgram scope, can however also cost up to several 1000€ . On the other hand, devices with a 0,01g precision are already available for less than 20€.
+The cheapest weighing scales with the appropriate precision, usually cost 100€ or more, higher quality devices around 300€. Scales capable of measuring differences in the microgram scope, can however also cost up to several 1000€ . On the other hand, devices with a 0.01g precision are already available for less than 20€.
 
 ####3. Available DIY resources
 - [link title](http://sci-toys.com/scitoys/scitoys/mathematics/microgram_balance/balance.html)
