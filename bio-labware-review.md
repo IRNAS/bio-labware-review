@@ -11,7 +11,7 @@
 ##Section 1 <a id="Section-1"></a>
 ###Fine Weighting Scale/ Microbalance <a id="Microbalance"></a>
 ####1. Background:
-Precise weighing of chemicals in solution preparation, measuring small samples... Essential for any “wet” experiment, containing buffers and other solutions, which need to have a precise composition. Depending on the amounts of source material, the scales require the appropriate precision. For the average laboratory use, a precision of 0,001g or better is favorable.
+Precise weighing of chemicals in solution preparation and measuring small samples is essential for any “wet” experiment, containing buffers and other solutions, which need to have a precise composition. Depending on the amounts of source material, the scales require the appropriate precision. For the average laboratory use, a precision of 0,001g or better is favorable.
 
 
 ####2. Comercial variants
@@ -27,7 +27,9 @@ The cheapest weighing scales with the appropriate precision, usually cost 100€
 - [link title](http://openqcm.com/)
 
 ####4. Is DIY goode enough and reasonable?
-Whether it is reasonable to build your own weighing scale, strongly depends on the samples you are going to measure. For material in the range of 0,01g or more, low-cost scales are readily available. However, if you need higher precision, making your own could save you a fair amount of money. Most DIY related projects are made for simple mechanical balances and while these can be precise, they are very impractical to work with. There are far less DIY projects for digital scales, which could be due a relatively low necessity and the many factors, which can influence the precision and accuracy of such devices (balancing, temperature, nonlinearity...). An exception could be the [openQCM](http://openqcm.com/), suitable for submicrogram samples. It is fully open source, promises high precision and accuracy and offers support for Windows, Linux and Mac.
+Whether it is reasonable to build your own weighing scale, strongly depends on the samples you are going to measure. For material in the range of 0,01g or more, low-cost scales are readily available. However, if you need higher precision, making your own could save you a fair amount of money. 
+
+Most DIY related projects are made for simple mechanical balances and while these can be precise, they are very impractical to work with. There are far less DIY projects for digital scales, which could be due to a relatively low demand and the many factors, which can influence the precision and accuracy of such devices (balancing, temperature, nonlinearity...). An exception here could be the [openQCM](http://openqcm.com/), suitable for submicrogram samples. It is fully open source, promises high precision and accuracy and offers support for Windows, Linux and Mac.
 
 ![Quartz Crystal Microbalance OpenQCM](images/openQCM.jpg)
 
