@@ -10,7 +10,7 @@
 
 ##Section 1 <a id="Section-1"></a>
 ###Fine Weighting Scale/ Microbalance <a id="Microbalance"></a>
-####1. Background:
+####1. Background
 Precise weighing of chemicals in solution preparation and measuring small samples is essential for any “wet” experiment, containing buffers and other solutions, which need to have a precise composition. Depending on the amounts of source material, the scales require the appropriate precision. For the average laboratory use, a precision of 0,001g or better is favorable.
 
 
@@ -33,7 +33,7 @@ Most DIY related projects are made for simple mechanical balances and while thes
 
 ![Quartz Crystal Microbalance OpenQCM](images/openQCM.jpg)
 
-"[Quartz Crystal Microbalance OpenQCM](http://openqcm.com/)" by "[openQCM](http://openqcm.com/)" is licensed under [CC BY-NC-SA 4.0](http://openqcm.com/)
+_"[Quartz Crystal Microbalance OpenQCM](http://openqcm.com/)" by "[openQCM](http://openqcm.com/)" is licensed under [CC BY-NC-SA 4.0](http://openqcm.com/)_
 
 ####5. Plans
 For our purposes, a precision of 0,01-0,001g is satisfactory, therefore we do not plan to make a scale from scratch at this point.
