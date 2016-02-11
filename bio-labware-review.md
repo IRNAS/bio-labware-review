@@ -27,7 +27,7 @@ The cheapest weighing scales with the appropriate precision, usually cost 100€
 - [link title](http://openqcm.com/)
 
 ####4. Is DIY goode enough and reasonable?
-Whether it is reasonable to build your own weighing scale, strongly depends on the samples you are going to measure. For material in the range of 0,01g or more, low-cost scales are readily available. However, if you need higher precision, making your own could save you a fair amount of money. 
+Whether it is reasonable to build your own weighing scale, strongly depends on the samples you are going to measure. For material in the range of 0.01g or more, low-cost scales are readily available. However, if you need higher precision, making your own could save you a fair amount of money. 
 
 Most DIY related projects are made for simple mechanical balances and while these can be precise, they are very impractical to work with. There are far less DIY projects for digital scales, which could be due to a relatively low demand and the many factors, which can influence the precision and accuracy of such devices (balancing, temperature, nonlinearity...). An exception here could be the [openQCM](http://openqcm.com/), suitable for submicrogram samples. It is fully open source, promises high precision and accuracy and offers support for Windows, Linux and Mac.
 
@@ -36,7 +36,7 @@ Most DIY related projects are made for simple mechanical balances and while thes
 _"[Quartz Crystal Microbalance OpenQCM](http://openqcm.com/)" by "[openQCM](http://openqcm.com/)" is licensed under [CC BY-NC-SA 4.0](http://openqcm.com/)_
 
 ####5. Plans
-For our purposes, a precision of 0,01-0,001g is satisfactory, therefore we do not plan to make a scale from scratch at this point.
+For our purposes, a precision of 0.01-0.001g is satisfactory, therefore we do not plan to make a scale from scratch at this point.
 
 
 ##Section 2 <a id="Section-2"></a>
