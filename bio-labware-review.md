@@ -16,8 +16,14 @@ As their is an overflow of possibilities and devices for laboratory use, it is n
   * [Microliter pipette](#Microliter-pipette)
   * [pH meter](#pH-meter)
   * [Ultrasonic bath](#Ultrasonic-bath)
-- [Section 2](#Section-2)
-- [Section 3](#Section-3)
+- [Microscopy](#Section-2)
+- [Spectroscopy](#Section-3)
+- [Chromatography](#Section-4)
+- [Immunohistochemistry](#Section-5)
+- [Genetics and Proteomics](#Section-6)
+- [Cell culture](#Section-7)
+- [Organic 3D printing](#Section-8)
+- [Various methods](#Section-9)
 
 
 ##Wet preparation equipment <a id="Section-1"></a>
@@ -237,10 +243,11 @@ It is questionable, whether it is reasonable to build a DIY ultrasound bath, sin
 ####5. Plan
 For simple cleaning of glassware or utensils and degassing of liquids, cheap commercial devices are sufficient and would be our first choice, however, some experimentation on the DIY devices would be interesting, especially if these can be made cheaper, while more versatile.
 
-##Section 2 <a id="Section-2"></a>
+##Microscopy <a id="Section-2"></a>
+work in progress...
 
-##Section 3 <a id="Section-3"></a>
-
+##Spectroscopy <a id="Section-3"></a>
+work in progress...
 
 <!---
 ###Title_name <a id="Title-name-no-spaces"></a>
