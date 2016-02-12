@@ -159,61 +159,83 @@ This piece of equipment already seems to be as good as it gets in its DIY form, 
 ###Microliter pipette <a id="Microliter-pipette"></a>
 
 ####1. Background
+Pipettes are lab tools, capable of transfering precise volumes of liquids from one container to another. In biological and biochemical work, automatic microliter pipettes are most widely used, due to their high precision and the the range of general sample size.
 
-Keywords: 
+Keywords: microliter, pipette, automatic, adjustable
 
 ####2. Commercial variants
+The average “wetlab” user requires at least 3 microliter pipettes, one for each range of 1-10ul, 10-100ul and 100-1000ul. A single, cheap pipette costs 50€ or more, typically 200-300€ for popular brands. They allow an accuracy and precision of 1ul. Most models of different brands use the same standard sized tips, which are consumables and can be acquired cheaply.
+In recent years, more electronic pipettes are also being developed, with programmable pipetting, which are however appropriately expensive.
 
 ####3. Available DIY resources
+There are two designs for DIY pipettes available at the moment, [the adjustable volume pipette](http://www.instructables.com/id/3D-Printable-Adjustable-Volume-Pipette/?ALLSTEPS), [Biropette](http://www.thingiverse.com/thing:255519), both are 3D printable to a large part. Both seem to handle pipetting well, however, precision and accuracy can still be improved.
 
+<!---
 ![Name-of-displayed-image](images/image.jpg)
 
 _"[Image title](http://..) by "[Image owner](http://..)" is licensed under [CC BY-NC-SA 4.0](http://openqcm.com/)_
+-->
 
 ####4. Is DIY good enough and reasonable?
+The Biropette seems quite precise and acurate already, however, both can be improved, also a wider range of adjustability should be introduced, possibly in the 3 stages common for commercial devices.
 
 ####5. Plan
-
+For laboratory use, we suggest commercial pipettes, however, we will work on a reliable, precise and accurate design, that will remain 3D printable to the most part.
 
 
 
 ###pH meter <a id="pH-meter"></a>
 
 ####1. Background
+From all liquid analysis methods, pH-metry is probably the most widely used in biology and biochemistry. For preparational purposes, it is used for adjusting the pH of buffers and other solutions, which require specific properties, for biochemical reactions to take place.
+Most commonly, the pH of a buffer, is adjusted by adding HCl or NaOH to a constantly stirred solution, while the pH value is measured.
 
-Keywords: 
+Keywords: pH, meter, oxonium, hydrogen, ions, concentration
 
 ####2. Commercial variants
+pH meters come in different forms, with various resolutions and accuracies. The cheapest variants are available for as little as 10€ (accuracy of pH 0,2), while lab-grade devices cost 300€ or more (accuracy of pH 0,01). The low-cost variants may just be sufficient for pools, or aquariums, they are probably not suitable for your laboratory. All devices require calibration solutions, which are used regularly and the process is all manual. A great chunk of the price is due to the quality of the sensor electrode.
+
+While the devices contain sensing electrodes in the package, these can be bought separately and exchanged. They are available for 20-100€ and require care and maintenance to work properly.
 
 ####3. Available DIY resources
+Many DIY projects can be found, ranging from those concentrating only on electronics, or complete devices, with various complexities and performances. In general, the devices are supposed to perform well, here are a few examples: The [Tiny pH meter](http://damien.douxchamps.net/elec/ph_meter/) is very accurate and has a good resolution, however, requires an additional (commercial/DIY) pH electrode. The same goes for the [simple pH meter](http://www.66pacific.com/ph/simplest_ph.aspx), which also shows good measurement performance and the [phduino](https://github.com/hephesto/phduino), which is an arduino based device. An example of a DIY system with a DIY electrode is found [here](http://www.instructables.com/id/cheap-DIY-electronic-pH-meter/?ALLSTEPS), the performance of the electrode itself is unknown. Similar instructions are found [here](https://noisebridge.net/wiki/BioBoard/Documentation/pH).
 
+<!---
 ![Name-of-displayed-image](images/image.jpg)
 
 _"[Image title](http://..) by "[Image owner](http://..)" is licensed under [CC BY-NC-SA 4.0](http://openqcm.com/)_
+-->
 
 ####4. Is DIY good enough and reasonable?
+There are many DIY pH meters, which, at least with commercial electrodes, provide high quality measurements. The DIY electrodes on the other hand, would need to be tested in practice, to evaluate their performance. Nonetheless, even with commercial electrodes, pH meters leave a lot of room for improvement, especially for automation, long-time measurements,...
 
 ####5. Plan
-
+The electronics will be assembled following the existing schematics, while experiments will be performed on the electrodes. Also, improvements for a wider applicability are planned.
 
 
 ###Ultrasonic bath <a id="Ultrasonic-bath"></a>
 
 ####1. Background
+Ultrasound baths are devices made for cleaning certain objects, such as jewlery, optical and surgical devices, etc. They have large transducer areas, which vibrate at ultrasonic frequencies (20-50kHz), that are transferred to a liquid and the contained samples and can break down brittle materials, but can also be used to degass liquids, mixing, etc.
 
-Keywords: 
+Keywords: ultrasound, sonication, bath, cleaning
 
 ####2. Commercial variants
+Commercial lab-grade ultrasonic baths, can cost from around 300, up to 1000€ for more sophisticated devices with heating.... They usualy contain a plastic basket, which protects the bath surface from damage, and have an adjustable sonication time, the frequency is however mostly fixed. Cheaper devices for the everyday consumer, with arguably the same performance, are however already available for 30-100€.
 
 ####3. Available DIY resources
-
+There are a few DIY ultrasonic bath project plans available, [example 1](http://www.instructables.com/id/Home-Made-Ultrasonic-Cleaning-Tank/) and [example 2](http://archive.siliconchip.com.au/cms/A_112072/article.html), made from cooking pots. While these devices probably deliver satisfactory results, operatin at about 40kHz, same as the commercial devices.
+<!---
 ![Name-of-displayed-image](images/image.jpg)
 
 _"[Image title](http://..) by "[Image owner](http://..)" is licensed under [CC BY-NC-SA 4.0](http://openqcm.com/)_
+-->
 
 ####4. Is DIY good enough and reasonable?
+It is questionable, whether it is reasonable to build a DIY ultrasound bath, since construction costs will be about the same as buying a cheap commercial device. This would probably depend on the experimental requirements, such as precise frequency, continer size and form,...
 
 ####5. Plan
+For simple cleaning of glassware or utensils and degassing of liquids, cheap commercial devices are sufficient and would be our first choice, however, some experimentation on the DIY devices would be interesting, especially if these can be made cheaper, while more versatile.
 
 ##Section 2 <a id="Section-2"></a>
 
