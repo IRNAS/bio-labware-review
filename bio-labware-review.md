@@ -10,7 +10,12 @@ As their is an overflow of possibilities and devices for laboratory use, it is n
 - [Wet preparation equipment](#Section-1)
   * [Fine Weighing Scale/ Microbalance](#Microbalance)
   * [Magnetic stirrer](#Magnetic-stirrer)
-  * [Subsection 3](#Subsection-3)
+  * [Centrifuge](#Centrifuge)
+  * [Vortex mixer](#Vortex-mixer)
+  * [Lab jack](#Lab-jack)
+  * [Microliter pipette](#Microliter-pipette)
+  * [pH meter](#pH-meter)
+  * [Ultrasonic bath](#Ultrasonic-bath)
 - [Section 2](#Section-2)
 - [Section 3](#Section-3)
 
@@ -45,24 +50,152 @@ For our purposes, a precision of 0.01-0.001g is satisfactory, therefore we do no
 
 ###Magnetic stirrer <a id="Magnetic-stirrer"></a>
 ####1. Background
+Magnetic stirrers are simple devices, used in combination with small magnetic rods, which are placed in a container and turned externally, to allow mixing of liquids and/or powdery materials. Usually, the top plate of a magnetic stirrer can also function as a heating plate.
 
+Keywords: magnetic, stirrer, heating, plate
+
+####2. Commercial variants
+Typically magnetic stirrers cost from 100€ upwards, up to 1000€ for more advanced models with integrated heating plates. They are usually relatively bulky and require an external power supply, which makes them less suitable for stirring in non-standard conditions, like a refrigerator, incubator, in the field,...
+
+####3. Available DIY resources
+Since these are very simple to make using everyday objects, there is an overflow of DIY magnetic stirrer projects. In principle they are made from a electromotor with a magnetic top blade, a power supply and housing. [Example 1](http://www.instructables.com/id/How-to-DIY-your-own-Magnetic-Stirrer-V2-better-th/) is in principle, what most DIY projects look like. [Example 2](http://www.instructables.com/id/How-to-Make-a-Cheap-Portable-Magnetic-Stirrer/)is also portable, [example 3](https://github.com/pepaslabs/PCFanMagneticStirrer) has an adjustable rotation speed. Biohack academy's [BHA stirrer](https://github.com/BioHackAcademy/BHA_Stirrer) is the most sophisticated model up to date, with good adjustability, a stable housing and an integrated heating plate.
+
+<!---
+![Quartz Crystal Microbalance OpenQCM](images/openQCM.jpg)
+
+_"[Quartz Crystal Microbalance OpenQCM](http://openqcm.com/wp-content/uploads/2015/01/Quartz-Crystal-Microbalance-openQCM-open-1024x575.jpg)" by "[openQCM](http://openqcm.com/)" is licensed under [CC BY-NC-SA 4.0](http://openqcm.com/)_
+-->
+
+####4. Is DIY good enough and reasonable?
+Magnetic stirrers would definitely go in the category of equipment, where DIY is reasonable, or even beneficial. Commercial devices are unreasonably expensive and are limited to table-top applications. Existing DIY projects have done well to mimic the basic capabilities of commercial devices, for a fraction of the cost. More sophisticated devices also integrate a heating plate, can be portable, etc.
+
+####5. Plan
+Magnetic stirrers are cheap and easy to make, therefore we will try to establish our own model. The goal will be a stirrer, which is portable, yet can be connected to an external power supply, is adjustable in stirring speed, which can in addition to heating possibly also be able to cool and be controlled externally.
+
+
+
+
+###Centrifuge <a id="Centrifuge"></a>
+
+####1. Background
 
 Keywords: 
 
 ####2. Commercial variants
 
-
 ####3. Available DIY resources
 
+![Name-of-displayed-image](images/image.jpg)
 
-![Quartz Crystal Microbalance OpenQCM](images/openQCM.jpg)
-
-_"[Quartz Crystal Microbalance OpenQCM](http://openqcm.com/wp-content/uploads/2015/01/Quartz-Crystal-Microbalance-openQCM-open-1024x575.jpg)" by "[openQCM](http://openqcm.com/)" is licensed under [CC BY-NC-SA 4.0](http://openqcm.com/)_
+_"[Image title](http://..) by "[Image owner](http://..)" is licensed under [CC BY-NC-SA 4.0](http://openqcm.com/)_
 
 ####4. Is DIY good enough and reasonable?
 
 ####5. Plan
 
+
+
+
+###Vortex mixer <a id="Vortex-mixer"></a>
+
+####1. Background
+
+Keywords: 
+
+####2. Commercial variants
+
+####3. Available DIY resources
+
+![Name-of-displayed-image](images/image.jpg)
+
+_"[Image title](http://..) by "[Image owner](http://..)" is licensed under [CC BY-NC-SA 4.0](http://openqcm.com/)_
+
+####4. Is DIY good enough and reasonable?
+
+####5. Plan
+
+
+
+
+###Lab jack <a id="Lab-jack"></a>
+
+####1. Background
+
+Keywords: 
+
+####2. Commercial variants
+
+####3. Available DIY resources
+
+![Name-of-displayed-image](images/image.jpg)
+
+_"[Image title](http://..) by "[Image owner](http://..)" is licensed under [CC BY-NC-SA 4.0](http://openqcm.com/)_
+
+####4. Is DIY good enough and reasonable?
+
+####5. Plan
+
+
+
+
+###Microliter pipette <a id="Microliter-pipette"></a>
+
+####1. Background
+
+Keywords: 
+
+####2. Commercial variants
+
+####3. Available DIY resources
+
+![Name-of-displayed-image](images/image.jpg)
+
+_"[Image title](http://..) by "[Image owner](http://..)" is licensed under [CC BY-NC-SA 4.0](http://openqcm.com/)_
+
+####4. Is DIY good enough and reasonable?
+
+####5. Plan
+
+
+
+
+###pH meter <a id="pH-meter"></a>
+
+####1. Background
+
+Keywords: 
+
+####2. Commercial variants
+
+####3. Available DIY resources
+
+![Name-of-displayed-image](images/image.jpg)
+
+_"[Image title](http://..) by "[Image owner](http://..)" is licensed under [CC BY-NC-SA 4.0](http://openqcm.com/)_
+
+####4. Is DIY good enough and reasonable?
+
+####5. Plan
+
+
+
+###Ultrasonic bath <a id="Ultrasonic-bath"></a>
+
+####1. Background
+
+Keywords: 
+
+####2. Commercial variants
+
+####3. Available DIY resources
+
+![Name-of-displayed-image](images/image.jpg)
+
+_"[Image title](http://..) by "[Image owner](http://..)" is licensed under [CC BY-NC-SA 4.0](http://openqcm.com/)_
+
+####4. Is DIY good enough and reasonable?
+
+####5. Plan
 
 ##Section 2 <a id="Section-2"></a>
 
