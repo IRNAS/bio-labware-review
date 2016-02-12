@@ -23,7 +23,7 @@ As their is an overflow of possibilities and devices for laboratory use, it is n
 ##Wet preparation equipment <a id="Section-1"></a>
 ###Fine Weighing Scale/ Microbalance <a id="Microbalance"></a>
 ####1. Background
-    Precise weighing of chemicals in solution preparation, measuring small samples... Essential for any “wet” experiment, containing buffers and other solutions, which need to have a precise composition. Depending on the amounts of source material, the scales require the appropriate precision. For the average laboratory use, a precision of 0,001g or better is favorable.
+Precise weighing of chemicals in solution preparation, measuring small samples... Essential for any “wet” experiment, containing buffers and other solutions, which need to have a precise composition. Depending on the amounts of source material, the scales require the appropriate precision. For the average laboratory use, a precision of 0,001g or better is favorable.
 
 Keywords: fine, weighing, gram, milli, micro, precision, scale, balance
 
@@ -78,62 +78,80 @@ Magnetic stirrers are cheap and easy to make, therefore we will try to establish
 ###Centrifuge <a id="Centrifuge"></a>
 
 ####1. Background
+Centrifuges are used for separation of substances in a liquid dispersion, depending on their differences in density. They are used in most “wet” experiments and are adapted for holding laboratory tubes, such as epis (eppendorf tubes), usually in sizes for 0,5, 1,5, or 2ml and falcons (conical centrifuge tubes), 15ml, 50ml,...
+The most important thing to be noted when working with centrifuges, is to make sure they are well balanced. The high rotation speeds (4000 rpm and above), can create strong forces, causing an unbalanced centrifuge to break and even endanger their environment.
 
-Keywords: 
+Keywords: centrifuge, micro, tubes
 
 ####2. Commercial variants
+There are two basic types of commercial centrifuges, which are used either for epis or for falcons. The simplest types of both sizes begin at approximately 150€ and go into several hundreds. More sophisticated models also allow temperature adjustments (cooling) for delicate samples. Also, some integrate a vacuuming function, for rapid concentrating/drying of samples during centrifugation. These are substantially more expensive, costing several thousand euros.
 
 ####3. Available DIY resources
+There are several designs available for DIY variants, using [PC fans](https://www.youtube.com/watch?v=eV-EGpJaOB8), [hard drives](https://www.youtube.com/watch?v=uqa1JNLLB78), [drills](http://www.popsci.com/diy/article/2013-07/how-build-your-own-diy-centrifuge), [blenders](http://citsci.blogspot.si/2009/11/centrifuge-revisited.html)..., however, much refinement is still possible in the design. Possibly the best variant up to date is the [OpenFuge](http://www.instructables.com/id/OpenFuge/), which however costs about 180€ to make (the control board is readily available [here](https://www.tindie.com/products/CopabX/openfuge-control-board/)).
 
+<!---
 ![Name-of-displayed-image](images/image.jpg)
 
 _"[Image title](http://..) by "[Image owner](http://..)" is licensed under [CC BY-NC-SA 4.0](http://openqcm.com/)_
+-->
 
 ####4. Is DIY good enough and reasonable?
+For simple centrifugation (separating heavy particulate from a solution), precise control is not necessary, for which, a simple drill centrifuge (such as DremelFuge) would suffice. For more advanced purposes, typical for a laboratory, it would be advantageous to have control over the centrifugal force and rotation time. It would also be immensely useful, if one could upgrade the device to a vacuum concentrator without too much effort.
 
 ####5. Plan
-
+As there are so many different DIY models available, we will set out, to test a few of them and plan to make an improved design, that will be cheap and meet the requirements of a wet laboratory.
 
 
 
 ###Vortex mixer <a id="Vortex-mixer"></a>
 
 ####1. Background
+Opposed to centrifuges, vortex mixers are used to mix samples together, especially those in very small amounts. The construction of a vertical mixer is relatively simple, a small rubber cup (that holds the bottom of a sample vial) is fixed on a rotor slightly of center, so when the rotor is turning, the rubber is oscillating and thus creating a vortex inside the liquid containing vial.
 
-Keywords: 
+Keywords: Vortex, mixer, vortexer
 
 ####2. Commercial variants
+Typically, vortexers cost 150 - 250€ and allow adjustment of oscillation speed and are started by applying pressure on the rubber cup.
 
 ####3. Available DIY resources
+While not many, there are exising and for the purpose good-enough DIY vortex mixers available, such as [example 1](https://www.youtube.com/watch?v=C-Tar7pmDWU) and [example 2](https://github.com/jdkizer/OS-Vortex-Mixer). The latter also has available plans for construction and is estimated to cost about 20€ when built at home.
 
+<!---
 ![Name-of-displayed-image](images/image.jpg)
 
 _"[Image title](http://..) by "[Image owner](http://..)" is licensed under [CC BY-NC-SA 4.0](http://openqcm.com/)_
+-->
 
 ####4. Is DIY good enough and reasonable?
+For simple mixing, the existing DIY variants are absolutely sufficient and come for a fraction of the commercial cost. That said, there are still many possibilities to improve the device. It is beneficial, that the vortex is relatively heavy, to remain stable while rotating samples in an asymetrical manner. What commercial variants offer as a standard, is the regulation of the rotation speed and activation upon applied pressure to the cup.
+What would improve the device even more, would be exchangable mounts (for example a flat table), which would add the functionality of shaking samples in different containers, a time counter and optional portability.
 
 ####5. Plan
-
+We will test the existing DIY designs and try to improve on them, to increase versatility, yet keep the devices cheap and simple to make.
 
 
 
 ###Lab jack <a id="Lab-jack"></a>
 
 ####1. Background
+A lab jack is an adjustable lifting stage, for elevating other tools in the laboratory, such as bottles, stirrers, etc.
 
-Keywords: 
+Keywords: lab, laboratory, scissor, jack, stand, adjustable, platform, lifting, stage
 
 ####2. Commercial variants
+Depending on the size, weight capacity and maximum elevation, lab jacks come at different prices. A small 10x10 cm platform with a working elevation of 5-15cm, that can carry somewhat above 10kg, costs 50€ or more.
 
 ####3. Available DIY resources
+There aren’t many DIY designs available, but the existing ones are perfectly fine for general laboratory use. As they are made of printable plastic, their weight carrying capacity may not be as high as for their commercial steel counterparts, but this also isn’t necessary most of the time. Here are [example 1](http://www.thingiverse.com/thing:28298), which can be upgraded with a stepper motor and automated for fine adjustment, and [example 2](http://www.thingiverse.com/thing:925556), which is 100% printable.
 
+<!---
 ![Name-of-displayed-image](images/image.jpg)
 
 _"[Image title](http://..) by "[Image owner](http://..)" is licensed under [CC BY-NC-SA 4.0](http://openqcm.com/)_
+-->
 
 ####4. Is DIY good enough and reasonable?
-
-####5. Plan
+This piece of equipment already seems to be as good as it gets in its DIY form, optimization doesn’t seem necessary.
 
 
 
