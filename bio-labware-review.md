@@ -50,8 +50,8 @@ _"[Quartz Crystal Microbalance OpenQCM](http://openqcm.com/wp-content/uploads/20
 ####4. Is DIY good enough and reasonable?
 Whether it is reasonable to build your own weighing scale, strongly depends on the samples you are going to measure. For material in the range of 0.01g or more, low-cost scales are readily available. However, if you need higher precision, making your own could save you a fair amount of money. Fine DIY weighing scales already exist, their main problem, however, is reliability, which is critical.
 
-####5. Plan
-For our purposes, a precision of 0.01-0.001g is satisfactory, therefore we do not plan to make a scale from scratch at this point.
+####5. Requirements and plans
+The favoured specifications of a lab grade weighing scale is simple use, a precision of 0.001g, on a range from 0.001 - 500g. Possible improvements are measurement recording (wifi/cable/...), and the possibility of inverse measurement with appropriate adapters for tensile testing.
 
 
 
