@@ -30,7 +30,7 @@ As their is an overflow of possibilities and devices for laboratory use, it is n
 ###Fine Weighing Scale/ Microbalance <a id="Microbalance"></a>
 ![Homemade_microbalance](http://sci-toys.com/scitoys/scitoys/mathematics/microgram_balance/whole_scale.jpg)
 
-Homemade microgram balance: http://sci-toys.com/scitoys/scitoys/mathematics/microgram_balance/
+Source: http://sci-toys.com/scitoys/scitoys/mathematics/microgram_balance/
 
 ####1. Background
 Precise weighing of chemicals in solution preparation, measuring small samples... Essential for any “wet” experiment, containing buffers and other solutions, which need to have a precise composition. Depending on the amounts of source material, the scales require the appropriate precision. For the average laboratory use, a precision of 0,001g or better is favorable.
@@ -61,7 +61,7 @@ The favoured specifications of a lab grade weighing scale is simple use, a preci
 ###Magnetic stirrer <a id="Magnetic-stirrer"></a>
 ![Magnetic_stirrer](https://cloud.githubusercontent.com/assets/17159617/13045381/43cb0eae-d3d3-11e5-96aa-91dd2b6bf4a7.jpg)
 
-Magnetic stirrer: http://www.keison.co.uk/bibbyscientific_cr302.shtml
+Source: http://www.keison.co.uk/bibbyscientific_cr302.shtml
 
 
 ####1. Background
@@ -75,11 +75,6 @@ Typically magnetic stirrers cost from 100€ upwards, up to 1000€ for more adv
 ####3. Available DIY resources
 Since these are very simple to make using everyday objects, there is an overflow of DIY magnetic stirrer projects. In principle they are made from a electromotor with a magnetic top blade, a power supply and housing. [Example 1](http://www.instructables.com/id/How-to-DIY-your-own-Magnetic-Stirrer-V2-better-th/) is in principle, what most DIY projects look like. [Example 2](http://www.instructables.com/id/How-to-Make-a-Cheap-Portable-Magnetic-Stirrer/)is also portable, [example 3](https://github.com/pepaslabs/PCFanMagneticStirrer) has an adjustable rotation speed. Biohack academy's [BHA stirrer](https://github.com/BioHackAcademy/BHA_Stirrer) is the most sophisticated model up to date, with good adjustability, a stable housing and an integrated heating plate.
 
-<!---
-![Quartz Crystal Microbalance OpenQCM](images/openQCM.jpg)
-
-_"[Quartz Crystal Microbalance OpenQCM](http://openqcm.com/wp-content/uploads/2015/01/Quartz-Crystal-Microbalance-openQCM-open-1024x575.jpg)" by "[openQCM](http://openqcm.com/)" is licensed under [CC BY-NC-SA 4.0](http://openqcm.com/)_
--->
 
 ####4. Is DIY good enough and reasonable?
 Magnetic stirrers would definitely go in the category of equipment, where DIY is reasonable, or even beneficial. Commercial devices are unreasonably expensive and are limited to table-top applications. Existing DIY projects have done well to mimic the basic capabilities of commercial devices, for a fraction of the cost. More sophisticated devices also integrate a heating plate, can be portable, etc.
@@ -93,7 +88,8 @@ Magnetic stirrers are cheap and easy to make, therefore we will try to establish
 ###Centrifuge <a id="Centrifuge"></a>
 
 ![GoGoFuge](https://diybiology.files.wordpress.com/2012/06/gogofuge-img_2205.jpg?w=600&h=450&crop=1)
-GoGoFuge: https://diybiology.files.wordpress.com/2012/06/gogofuge-img_2205.jpg?w=600&h=450&crop=1
+
+Source: https://diybiology.files.wordpress.com/2012/06/gogofuge-img_2205.jpg?w=600&h=450&crop=1
 
 ####1. Background
 Centrifuges are used for separation of substances in a liquid dispersion, depending on their differences in density. They are used in most “wet” experiments and are adapted for holding laboratory tubes, such as epis (eppendorf tubes), usually in sizes for 0,5, 1,5, or 2ml and falcons (conical centrifuge tubes), 15ml, 50ml,...
@@ -107,21 +103,19 @@ There are two basic types of commercial centrifuges, which are used either for e
 ####3. Available DIY resources
 There are several designs available for DIY variants, using [PC fans](https://www.youtube.com/watch?v=eV-EGpJaOB8), [hard drives](https://www.youtube.com/watch?v=uqa1JNLLB78), [drills](http://www.popsci.com/diy/article/2013-07/how-build-your-own-diy-centrifuge), [blenders](http://citsci.blogspot.si/2009/11/centrifuge-revisited.html)..., however, much refinement is still possible in the design. Possibly the best two variants up to date are the [OpenFuge](http://www.instructables.com/id/OpenFuge/), which however costs about 180€ to make (the control board is readily available [here](https://www.tindie.com/products/CopabX/openfuge-control-board/)) and the [GoGoFuge](https://diybio.org/2012/06/12/gogofuge/), which is an improvement on the drill based dremelfuge.
 
-<!---
-![Name-of-displayed-image](images/image.jpg)
-
-_"[Image title](http://..) by "[Image owner](http://..)" is licensed under [CC BY-NC-SA 4.0](http://openqcm.com/)_
--->
 
 ####4. Is DIY good enough and reasonable?
 For simple centrifugation (separating heavy particulate from a solution), precise control is not necessary, for which, a simple drill centrifuge (such as DremelFuge) would suffice. For more advanced purposes, typical for a laboratory, it would be advantageous to have control over the centrifugal force and rotation time. It would also be immensely useful, if one could upgrade the device to a vacuum concentrator without too much effort.
 
-####5. Plan
-As there are so many different DIY models available, we will set out, to test a few of them and plan to make an improved design, that will be cheap and meet the requirements of a wet laboratory.
+####5. Requirements and plans
+As there are so many different DIY models available, we will set out, to test a few of them and plan to make an improved design, that will be cheap and meet the requirements of a wet laboratory. A laboratory centrifuge should have an adjustable rotation speed (0-7000 rpm) and time (0-60min). It should also be safe and stable.
 
 
 
 ###Vortex mixer <a id="Vortex-mixer"></a>
+![Vortex_mixer](https://cloud.githubusercontent.com/assets/17159617/13046006/a7dbd7a4-d3d6-11e5-8267-cfec64d417f3.jpg)
+
+Source: http://www.keison.co.uk/stuart_sa7.shtml
 
 ####1. Background
 Opposed to centrifuges, vortex mixers are used to mix samples together, especially those in very small amounts. The construction of a vertical mixer is relatively simple, a small rubber cup (that holds the bottom of a sample vial) is fixed on a rotor slightly of center, so when the rotor is turning, the rubber is oscillating and thus creating a vortex inside the liquid containing vial.
@@ -134,22 +128,18 @@ Typically, vortexers cost 150 - 250€ and allow adjustment of oscillation speed
 ####3. Available DIY resources
 While not many, there are exising and for the purpose good-enough DIY vortex mixers available, such as [example 1](https://www.youtube.com/watch?v=C-Tar7pmDWU) and [example 2](https://github.com/jdkizer/OS-Vortex-Mixer). The latter also has available plans for construction and is estimated to cost about 20€ when built at home.
 
-<!---
-![Name-of-displayed-image](images/image.jpg)
-
-_"[Image title](http://..) by "[Image owner](http://..)" is licensed under [CC BY-NC-SA 4.0](http://openqcm.com/)_
--->
-
 ####4. Is DIY good enough and reasonable?
 For simple mixing, the existing DIY variants are absolutely sufficient and come for a fraction of the commercial cost. That said, there are still many possibilities to improve the device. It is beneficial, that the vortex is relatively heavy, to remain stable while rotating samples in an asymetrical manner. What commercial variants offer as a standard, is the regulation of the rotation speed and activation upon applied pressure to the cup.
 What would improve the device even more, would be exchangable mounts (for example a flat table), which would add the functionality of shaking samples in different containers, a time counter and optional portability.
 
-####5. Plan
-We will test the existing DIY designs and try to improve on them, to increase versatility, yet keep the devices cheap and simple to make.
+####5. Requirements and plans
+A vortex mixer should have an adjustable rotation speed (0-20Hz), on a small oscillation radius (~1cm). An improvement would be, the rotation starting at applied pressure and a time counter (seconds).
 
 
 
 ###Lab jack <a id="Lab-jack"></a>
+![Lab_jack](https://cloud.githubusercontent.com/assets/17159617/13046343/827edd74-d3d8-11e5-84f0-1263bbbe179a.jpg)
+Source: http://www.thingiverse.com/thing:925556
 
 ####1. Background
 A lab jack is an adjustable lifting stage, for elevating other tools in the laboratory, such as bottles, stirrers, etc.
@@ -162,12 +152,6 @@ Depending on the size, weight capacity and maximum elevation, lab jacks come at 
 ####3. Available DIY resources
 There aren’t many DIY designs available, but the existing ones are perfectly fine for general laboratory use. As they are made of printable plastic, their weight carrying capacity may not be as high as for their commercial steel counterparts, but this also isn’t necessary most of the time. Here are [example 1](http://www.thingiverse.com/thing:28298), which can be upgraded with a stepper motor and automated for fine adjustment, and [example 2](http://www.thingiverse.com/thing:925556), which is 100% printable.
 
-<!---
-![Name-of-displayed-image](images/image.jpg)
-
-_"[Image title](http://..) by "[Image owner](http://..)" is licensed under [CC BY-NC-SA 4.0](http://openqcm.com/)_
--->
-
 ####4. Is DIY good enough and reasonable?
 This piece of equipment already seems to be as good as it gets in its DIY form, optimization doesn’t seem necessary.
 
@@ -175,6 +159,9 @@ This piece of equipment already seems to be as good as it gets in its DIY form, 
 
 
 ###Microliter pipette <a id="Microliter-pipette"></a>
+![Pipette](https://cloud.githubusercontent.com/assets/17159617/13046467/4217254c-d3d9-11e5-814e-ab544e4bce91.jpg)
+
+Source: http://www.gilsonuk.com/catalogue/product/itemNo/F123784
 
 ####1. Background
 Pipettes are lab tools, capable of transfering precise volumes of liquids from one container to another. In biological and biochemical work, automatic microliter pipettes are most widely used, due to their high precision and the the range of general sample size.
@@ -188,12 +175,6 @@ In recent years, more electronic pipettes are also being developed, with program
 ####3. Available DIY resources
 There are two designs for DIY pipettes available at the moment, [the adjustable volume pipette](http://www.instructables.com/id/3D-Printable-Adjustable-Volume-Pipette/?ALLSTEPS), [Biropette](http://www.thingiverse.com/thing:255519), both are 3D printable to a large part. Both seem to handle pipetting well, however, precision and accuracy can still be improved.
 
-<!---
-![Name-of-displayed-image](images/image.jpg)
-
-_"[Image title](http://..) by "[Image owner](http://..)" is licensed under [CC BY-NC-SA 4.0](http://openqcm.com/)_
--->
-
 ####4. Is DIY good enough and reasonable?
 The Biropette seems quite precise and acurate already, however, both can be improved, also a wider range of adjustability should be introduced, possibly in the 3 stages common for commercial devices.
 
@@ -202,7 +183,9 @@ For laboratory use, we suggest commercial pipettes, however, we will work on a r
 
 
 
-###pH meter <a id="pH-meter"></a>
+###pH meter <a id="pH-meter"></a
+![pH_meter](https://cloud.githubusercontent.com/assets/17159617/13046581/db39d5b2-d3d9-11e5-87e5-f2efafa7b4a1.jpg)
+Source: http://www.wisegeek.org/what-is-the-ph-scale.htm
 
 ####1. Background
 From all liquid analysis methods, pH-metry is probably the most widely used in biology and biochemistry. For preparational purposes, it is used for adjusting the pH of buffers and other solutions, which require specific properties, for biochemical reactions to take place.
@@ -218,20 +201,16 @@ While the devices contain sensing electrodes in the package, these can be bought
 ####3. Available DIY resources
 Many DIY projects can be found, ranging from those concentrating only on electronics, or complete devices, with various complexities and performances. In general, the devices are supposed to perform well, here are a few examples: The [Tiny pH meter](http://damien.douxchamps.net/elec/ph_meter/) is very accurate and has a good resolution, however, requires an additional (commercial/DIY) pH electrode. The same goes for the [simple pH meter](http://www.66pacific.com/ph/simplest_ph.aspx), which also shows good measurement performance and the [phduino](https://github.com/hephesto/phduino), which is an arduino based device. An example of a DIY system with a DIY electrode is found [here](http://www.instructables.com/id/cheap-DIY-electronic-pH-meter/?ALLSTEPS), the performance of the electrode itself is unknown. Similar instructions are found [here](https://noisebridge.net/wiki/BioBoard/Documentation/pH).
 
-<!---
-![Name-of-displayed-image](images/image.jpg)
-
-_"[Image title](http://..) by "[Image owner](http://..)" is licensed under [CC BY-NC-SA 4.0](http://openqcm.com/)_
--->
-
 ####4. Is DIY good enough and reasonable?
 There are many DIY pH meters, which, at least with commercial electrodes, provide high quality measurements. The DIY electrodes on the other hand, would need to be tested in practice, to evaluate their performance. Nonetheless, even with commercial electrodes, pH meters leave a lot of room for improvement, especially for automation, long-time measurements,...
 
-####5. Plan
-The electronics will be assembled following the existing schematics, while experiments will be performed on the electrodes. Also, improvements for a wider applicability are planned.
+####5. Requirements and plans
+The electronics will be assembled following the existing schematics, while experiments will be performed on the electrodes. Also, improvements for a wider applicability are planned. A pH meter should, with the assistance of calibration liquids, be capable of sensing the full pH range (1-14) of a solution, with a precision of 0,01.
 
 
 ###Ultrasonic bath <a id="Ultrasonic-bath"></a>
+![ultrasonic_bath](https://cloud.githubusercontent.com/assets/17159617/13046696/aa958388-d3da-11e5-82e1-229f59757a1a.jpg)
+Source: http://www.progensci.co.uk/page682/Laboratory-Equipment/Water-Baths/Ultrasonic-Baths/Clifton-Ultrasonic-Baths
 
 ####1. Background
 Ultrasound baths are devices made for cleaning certain objects, such as jewlery, optical and surgical devices, etc. They have large transducer areas, which vibrate at ultrasonic frequencies (20-50kHz), that are transferred to a liquid and the contained samples and can break down brittle materials, but can also be used to degass liquids, mixing, etc.
@@ -243,17 +222,12 @@ Commercial lab-grade ultrasonic baths, can cost from around 300, up to 1000€ f
 
 ####3. Available DIY resources
 There are a few DIY ultrasonic bath project plans available, [example 1](http://www.instructables.com/id/Home-Made-Ultrasonic-Cleaning-Tank/) and [example 2](http://archive.siliconchip.com.au/cms/A_112072/article.html), made from cooking pots. While these devices probably deliver satisfactory results, operatin at about 40kHz, same as the commercial devices.
-<!---
-![Name-of-displayed-image](images/image.jpg)
-
-_"[Image title](http://..) by "[Image owner](http://..)" is licensed under [CC BY-NC-SA 4.0](http://openqcm.com/)_
--->
 
 ####4. Is DIY good enough and reasonable?
 It is questionable, whether it is reasonable to build a DIY ultrasound bath, since construction costs will be about the same as buying a cheap commercial device. This would probably depend on the experimental requirements, such as precise frequency, continer size and form,...
 
-####5. Plan
-For simple cleaning of glassware or utensils and degassing of liquids, cheap commercial devices are sufficient and would be our first choice, however, some experimentation on the DIY devices would be interesting, especially if these can be made cheaper, while more versatile.
+####5. Requirements and plans
+For simple cleaning of glassware or utensils and degassing of liquids, cheap commercial devices are sufficient and would be our first choice, however, some experimentation on the DIY devices would be interesting, especially if these can be made cheaper, while more versatile. The important issue is the frequency (20-40kHz) and adjustable sonication time.
 
 ##Microscopy <a id="Section-2"></a>
 work in progress...
