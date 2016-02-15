@@ -84,13 +84,16 @@ _"[Quartz Crystal Microbalance OpenQCM](http://openqcm.com/wp-content/uploads/20
 ####4. Is DIY good enough and reasonable?
 Magnetic stirrers would definitely go in the category of equipment, where DIY is reasonable, or even beneficial. Commercial devices are unreasonably expensive and are limited to table-top applications. Existing DIY projects have done well to mimic the basic capabilities of commercial devices, for a fraction of the cost. More sophisticated devices also integrate a heating plate, can be portable, etc.
 
-####5. Plan
-Magnetic stirrers are cheap and easy to make, therefore we will try to establish our own model. The goal will be a stirrer, which is portable, yet can be connected to an external power supply, is adjustable in stirring speed, which can in addition to heating possibly also be able to cool and be controlled externally.
+####5. Requirements and plans
+Magnetic stirrers are cheap and easy to make, therefore we will try to establish our own model. The goal will be a stirrer, which is portable, yet can be connected to an external power supply. It should have an adjustable stirring speed (1-20Hz), which can, in addition to heating, possibly also be able to cool (0-100°C) and be controlled externally. It would be practical, to have one model without heating/cooling, which is compact and can be placed in climatized chambers (fridge, incubator).
 
 
 
 
 ###Centrifuge <a id="Centrifuge"></a>
+
+![GoGoFuge](https://diybiology.files.wordpress.com/2012/06/gogofuge-img_2205.jpg?w=600&h=450&crop=1)
+GoGoFuge: https://diybiology.files.wordpress.com/2012/06/gogofuge-img_2205.jpg?w=600&h=450&crop=1
 
 ####1. Background
 Centrifuges are used for separation of substances in a liquid dispersion, depending on their differences in density. They are used in most “wet” experiments and are adapted for holding laboratory tubes, such as epis (eppendorf tubes), usually in sizes for 0,5, 1,5, or 2ml and falcons (conical centrifuge tubes), 15ml, 50ml,...
