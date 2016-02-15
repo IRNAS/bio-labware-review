@@ -59,7 +59,7 @@ The favoured specifications of a lab grade weighing scale is simple use, a preci
 
 
 ###Magnetic stirrer <a id="Magnetic-stirrer"></a>
-![Magnetic_stirrer](http://www.keison.co.uk/products/bibbyscientific/large/CR302.jpg)
+![Magnetic_stirrer](https://cloud.githubusercontent.com/assets/17159617/13045381/43cb0eae-d3d3-11e5-96aa-91dd2b6bf4a7.jpg)
 
 Magnetic stirrer: http://www.keison.co.uk/bibbyscientific_cr302.shtml
 
