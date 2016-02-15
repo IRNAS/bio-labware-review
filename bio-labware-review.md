@@ -139,6 +139,7 @@ A vortex mixer should have an adjustable rotation speed (0-20Hz), on a small osc
 
 ###Lab jack <a id="Lab-jack"></a>
 ![Lab_jack](https://cloud.githubusercontent.com/assets/17159617/13046343/827edd74-d3d8-11e5-84f0-1263bbbe179a.jpg)
+
 Source: http://www.thingiverse.com/thing:925556
 
 ####1. Background
