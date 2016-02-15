@@ -30,6 +30,8 @@ As their is an overflow of possibilities and devices for laboratory use, it is n
 ###Fine Weighing Scale/ Microbalance <a id="Microbalance"></a>
 ![Homemade_microbalance](http://sci-toys.com/scitoys/scitoys/mathematics/microgram_balance/whole_scale.jpg)
 
+_"[Homemade_microbalance]" by "http://sci-toys.com/scitoys/scitoys/mathematics/microgram_balance/"_
+
 ####1. Background
 Precise weighing of chemicals in solution preparation, measuring small samples... Essential for any “wet” experiment, containing buffers and other solutions, which need to have a precise composition. Depending on the amounts of source material, the scales require the appropriate precision. For the average laboratory use, a precision of 0,001g or better is favorable.
 
