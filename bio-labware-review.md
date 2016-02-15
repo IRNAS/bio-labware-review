@@ -59,6 +59,11 @@ The favoured specifications of a lab grade weighing scale is simple use, a preci
 
 
 ###Magnetic stirrer <a id="Magnetic-stirrer"></a>
+![Magnetic_stirrer](http://www.keison.co.uk/products/bibbyscientific/large/CR302.jpg)
+
+Magnetic stirrer: http://www.keison.co.uk/bibbyscientific_cr302.shtml
+
+
 ####1. Background
 Magnetic stirrers are simple devices, used in combination with small magnetic rods, which are placed in a container and turned externally, to allow mixing of liquids and/or powdery materials. Usually, the top plate of a magnetic stirrer can also function as a heating plate.
 
