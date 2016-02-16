@@ -5,7 +5,7 @@ One of our goals at symbiolab is making a complete collection of affordable and 
 
 Saying this, while we plan to collect as much DIY equipment as possible, it is important to point out, that it doesn’t make sense, to make EVERYTHING DIY. Many tools, which are commonly used in a laboratory, are simply easier and cheaper to buy, than to make from scratch. This includes glassware (beakers, measuring cylinders, petri dishes, glasks,...), basic utensils and consumables (spoons, spatulas, scalpels, tweezers,...) and basic kitchenware (fridge/freezer, dishwasher, microwave oven,...). These tools will therefore not be added to the review list.
 
-As their is an overflow of possibilities and devices for laboratory use, it is not unlikely, we will forget something in our list. If there is something that you miss, feel free to contact us and add suggestions.
+As there is an overflow of possibilities and devices for laboratory use, it is not unlikely, we will forget something in our list. If there is something that you miss, feel free to contact us and add suggestions.
 
 - [Wet preparation equipment](#Section-1)
   * [Fine Weighing Scale/ Microbalance](#Microbalance)
