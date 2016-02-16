@@ -54,7 +54,7 @@ Whether it is reasonable to build your own weighing scale, strongly depends on t
 The favoured specifications of a lab grade weighing scale is simple use, a precision of 0.001g, on a range from 0.001 - 500g. Possible improvements are measurement recording (wifi/cable/...), and the possibility of inverse measurement with appropriate adapters for tensile testing.
 
 
-
+---
 
 
 
@@ -83,7 +83,7 @@ Magnetic stirrers would definitely go in the category of equipment, where DIY is
 Magnetic stirrers are cheap and easy to make, therefore we will try to establish our own model. The goal will be a stirrer, which is portable, yet can be connected to an external power supply. It should have an adjustable stirring speed (1-20Hz), which can, in addition to heating, possibly also be able to cool (0-100°C) and be controlled externally. It would be practical, to have one model without heating/cooling, which is compact and can be placed in climatized chambers (fridge, incubator).
 
 
-
+---
 
 ###Centrifuge <a id="Centrifuge"></a>
 
@@ -110,7 +110,7 @@ For simple centrifugation (separating heavy particulate from a solution), precis
 ####5. Requirements and plans
 As there are so many different DIY models available, we will set out, to test a few of them and plan to make an improved design, that will be cheap and meet the requirements of a wet laboratory. A laboratory centrifuge should have an adjustable rotation speed (0-7000 rpm) and time (0-60min). It should also be safe and stable.
 
-
+---
 
 ###Vortex mixer <a id="Vortex-mixer"></a>
 ![Vortex_mixer](https://cloud.githubusercontent.com/assets/17159617/13046006/a7dbd7a4-d3d6-11e5-8267-cfec64d417f3.jpg)
@@ -135,7 +135,7 @@ What would improve the device even more, would be exchangable mounts (for exampl
 ####5. Requirements and plans
 A vortex mixer should have an adjustable rotation speed (0-20Hz), on a small oscillation radius (~1cm). An improvement would be, the rotation starting at applied pressure and a time counter (seconds).
 
-
+---
 
 ###Lab jack <a id="Lab-jack"></a>
 ![Lab_jack](https://cloud.githubusercontent.com/assets/17159617/13046343/827edd74-d3d8-11e5-84f0-1263bbbe179a.jpg)
@@ -156,7 +156,7 @@ There aren’t many DIY designs available, but the existing ones are perfectly f
 ####4. Is DIY good enough and reasonable?
 This piece of equipment already seems to be as good as it gets in its DIY form, optimization doesn’t seem necessary.
 
-
+---
 
 
 ###Microliter pipette <a id="Microliter-pipette"></a>
@@ -182,9 +182,9 @@ The Biropette seems quite precise and acurate already, however, both can be impr
 ####5. Plan
 For laboratory use, we suggest commercial pipettes, however, we will work on a reliable, precise and accurate design, that will remain 3D printable to the most part.
 
+---
 
-
-###pH meter <a id="pH-meter"></a
+###pH meter <a id="pH-meter"></a>
 ![pH_meter](https://cloud.githubusercontent.com/assets/17159617/13046581/db39d5b2-d3d9-11e5-87e5-f2efafa7b4a1.jpg)
 Source: http://www.wisegeek.org/what-is-the-ph-scale.htm
 
@@ -208,6 +208,7 @@ There are many DIY pH meters, which, at least with commercial electrodes, provid
 ####5. Requirements and plans
 The electronics will be assembled following the existing schematics, while experiments will be performed on the electrodes. Also, improvements for a wider applicability are planned. A pH meter should, with the assistance of calibration liquids, be capable of sensing the full pH range (1-14) of a solution, with a precision of 0,01.
 
+---
 
 ###Ultrasonic bath <a id="Ultrasonic-bath"></a>
 ![ultrasonic_bath](https://cloud.githubusercontent.com/assets/17159617/13046696/aa958388-d3da-11e5-82e1-229f59757a1a.jpg)
@@ -225,13 +226,19 @@ Commercial lab-grade ultrasonic baths, can cost from around 300, up to 1000€ f
 There are a few DIY ultrasonic bath project plans available, [example 1](http://www.instructables.com/id/Home-Made-Ultrasonic-Cleaning-Tank/) and [example 2](http://archive.siliconchip.com.au/cms/A_112072/article.html), made from cooking pots. While these devices probably deliver satisfactory results, operatin at about 40kHz, same as the commercial devices.
 
 ####4. Is DIY good enough and reasonable?
+
 It is questionable, whether it is reasonable to build a DIY ultrasound bath, since construction costs will be about the same as buying a cheap commercial device. This would probably depend on the experimental requirements, such as precise frequency, continer size and form,...
 
 ####5. Requirements and plans
+
 For simple cleaning of glassware or utensils and degassing of liquids, cheap commercial devices are sufficient and would be our first choice, however, some experimentation on the DIY devices would be interesting, especially if these can be made cheaper, while more versatile. The important issue is the frequency (20-40kHz) and adjustable sonication time.
+
+---
 
 ##Microscopy <a id="Section-2"></a>
 work in progress...
+
+---
 
 ##Spectroscopy <a id="Section-3"></a>
 work in progress...
