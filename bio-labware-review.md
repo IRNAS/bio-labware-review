@@ -7,7 +7,7 @@ Saying this, while we plan to collect as much DIY equipment as possible, it is i
 
 As there is an overflow of possibilities and devices for laboratory use, it is not unlikely, we will forget something in our list. If there is something that you miss, feel free to contact us and add suggestions.
 
-- [Wet preparation equipment](#Section-1)
+- [Wet preparation equipment](#Wet-preparation)
   * [Fine Weighing Scale/ Microbalance](#Microbalance)
   * [Magnetic stirrer](#Magnetic-stirrer)
   * [Centrifuge](#Centrifuge)
@@ -26,7 +26,7 @@ As there is an overflow of possibilities and devices for laboratory use, it is n
 - [Various methods](#Section-9)
 
 
-##Wet preparation equipment <a id="Section-1"></a>
+##Wet preparation equipment <a id="Wet-preparation"></a>
 ###Fine Weighing Scale/ Microbalance <a id="Microbalance"></a>
 ![Homemade_microbalance](http://sci-toys.com/scitoys/scitoys/mathematics/microgram_balance/whole_scale.jpg)
 
