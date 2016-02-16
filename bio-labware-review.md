@@ -16,14 +16,14 @@ As there is an overflow of possibilities and devices for laboratory use, it is n
   * [Microliter pipette](#Microliter-pipette)
   * [pH meter](#pH-meter)
   * [Ultrasonic bath](#Ultrasonic-bath)
-- [Microscopy](#Section-2)
-- [Spectroscopy](#Section-3)
-- [Chromatography](#Section-4)
-- [Immunohistochemistry](#Section-5)
-- [Genetics and Proteomics](#Section-6)
-- [Cell culture](#Section-7)
-- [Organic 3D printing](#Section-8)
-- [Various methods](#Section-9)
+- [Microscopy](#Microscopy)
+- [Spectroscopy](#Spectroscopy)
+- [Chromatography](#Chromatography)
+- [Immunohistochemistry](#Immunohistochemistry)
+- [Genetics and Proteomics](#Genetics-and-Proteomics)
+- [Cell culture](#Cell-culture)
+- [Organic 3D printing](#Organic-3D-printing)
+- [Various methods](#Various-methods)
 
 
 ##Wet preparation equipment <a id="Wet-preparation"></a>
@@ -235,12 +235,12 @@ For simple cleaning of glassware or utensils and degassing of liquids, cheap com
 
 ---
 
-##Microscopy <a id="Section-2"></a>
+##Microscopy <a id="Microbalance"></a>
 work in progress...
 
 ---
 
-##Spectroscopy <a id="Section-3"></a>
+##Spectroscopy <a id="Magnetic-stirrer"></a>
 work in progress...
 
 <!---
