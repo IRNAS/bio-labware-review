@@ -235,12 +235,12 @@ For simple cleaning of glassware or utensils and degassing of liquids, cheap com
 
 ---
 
-##Microscopy <a id="Microbalance"></a>
+##Microscopy <a id="Microscopy"></a>
 work in progress...
 
 ---
 
-##Spectroscopy <a id="Magnetic-stirrer"></a>
+##Spectroscopy <a id="Spectroscopy"></a>
 work in progress...
 
 <!---
