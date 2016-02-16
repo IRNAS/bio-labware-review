@@ -45,7 +45,7 @@ There are several fine weighing scale/microbalance projects on the internet. Mos
 
 ![Quartz Crystal Microbalance OpenQCM](images/openQCM.jpg)
 
-_"[Quartz Crystal Microbalance OpenQCM](http://openqcm.com/wp-content/uploads/2015/01/Quartz-Crystal-Microbalance-openQCM-open-1024x575.jpg)" by "[openQCM](http://openqcm.com/)" is licensed under [CC BY-NC-SA 4.0](http://openqcm.com/)_
+_"[Quartz Crystal Microbalance OpenQCM](http://openqcm.com/wp-content/uploads/2015/01/Quartz-Crystal-Microbalance-openQCM-open-1024x575.jpg)" by "[openQCM](http://openqcm.com/)" is licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)_
 
 ####4. Is DIY good enough and reasonable?
 Whether it is reasonable to build your own weighing scale, strongly depends on the samples you are going to measure. For material in the range of 0.01g or more, low-cost scales are readily available. However, if you need higher precision, making your own could save you a fair amount of money. Fine DIY weighing scales already exist, their main problem, however, is reliability, which is critical.
