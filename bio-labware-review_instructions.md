@@ -22,6 +22,6 @@ Anyone who wishes it, can add to our bio-labware review! But to maintain more-or
   
 - Requirements and plans
 
-  Briefly describe the requirements and focus points of the device type in general - what is most important for the device, to get a good evaluation.
+  Briefly describe the requirements and focus points of the device type in general - what is most important for the device to get a good evaluation.
   
 
