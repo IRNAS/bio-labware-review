@@ -1,5 +1,7 @@
 Anyone who wishes it, can add to our bio-labware review! But to maintain more-or-less clear and structured content, we have prepared some instructions on how to contribute. This will make contributions easier for us, for you and everyone else as well.
+
 1. The posts are written in github markdown syntax.
+
 2. All device-posts should have the same content structure, which is as follows:
 - Background
 
