@@ -244,8 +244,8 @@ For simple cleaning of glassware or utensils and degassing of liquids, cheap com
 
 ---
 
+
 ##Microscopy <a id="Microscopy"></a>
-##Microscopy <a id="Section-2"></a>
 A fantastic resource on microscopes, how they work, advantages/dissadvantages, etc., can be found [here](http://www.microscopemaster.com/).
 
 ###Stero microscope <a id="Stereo-microscope"></a>
