@@ -246,7 +246,7 @@ For simple cleaning of glassware or utensils and degassing of liquids, cheap com
 
 
 ##Microscopy <a id="Microscopy"></a>
-A fantastic resource on microscopes, how they work, advantages/dissadvantages, etc., can be found [here](http://www.microscopemaster.com/).
+The focus in this chapter lies in creating an overview of the more basic and general types of microscopy, for example optical microscopy, however, we DO NOT go into detail of more specialized and advanced techniques at this point (like confocal, phase contrast, interference microscopy, etc.). Hopefully, we will be able to fill in such gaps in the future. A fantastic resource on microscopes, how they work, advantages/dissadvantages, etc., can be found [here](http://www.microscopemaster.com/).
 
 ###Stero microscope <a id="Stereo-microscope"></a>
 ![stereo_microscope](https://cloud.githubusercontent.com/assets/17159617/13277752/8a57ddbc-dacb-11e5-83f2-5157752dbe4a.jpg)
