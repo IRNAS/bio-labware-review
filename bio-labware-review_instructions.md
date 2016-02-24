@@ -1,8 +1,8 @@
-Anyone who wishes it, can add to our bio-labware review! But to maintain more-or-less clear and structured content, we have prepared some instructions on how to contribute. This will make contributions easier for us, for you and everyone else as well.
+Anyone who wishes it, can add to our bio-labware review! But to maintain more-or-less clear and structured content, we have prepared some instructions on how to contribute. This will make contributions easier for us, for you and everyone else as well. Every effort will be much appreciated!
 
 1. The posts are written in github markdown syntax.
-2. We wish to moderate our content, so please be sure to contact us, if you would like to contribute. Every effort will be much appreciated!
-3. All device-posts should have the same content structure, which is as follows:
+
+2. All device-posts should have the same content structure, which is as follows:
 
 - Background
 
@@ -14,7 +14,7 @@ Anyone who wishes it, can add to our bio-labware review! But to maintain more-or
   
 - Available DIY resources
 
-  Here, the actual DIY resources are reviewed. Ephasize on the currently most developed projects (if any), their specifications, cost (if known) and applicability.
+  Here, the actual DIY resources are reviewed. Emphasize on the currently most developed projects (if any), their specifications, cost (if known) and applicability.
   
 - Is DIY good enough and reasonable?
 
