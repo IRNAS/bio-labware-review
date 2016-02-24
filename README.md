@@ -4,6 +4,36 @@ This repository contains a [complete bio labware review](https://github.com/symb
 
 As there is an overflow of possibilities and devices for laboratory use, it is not unlikely, we will forget something in our list. If there is something that you miss, feel free to add suggestions or [contact us](mailto:bostjan@irnas.eu).
 
+## Contribute
+
+Anyone who wishes it, can add to our bio-labware review on Github directly! But to maintain more-or-less clear and structured content, we have prepared some instructions on how to contribute. This will make contributions easier for us, for you and everyone else as well. Every effort will be much appreciated!
+
+1. The posts are written in github markdown syntax.
+
+2. All device-posts should have the same content structure, which is as follows:
+
+- Background
+
+  Describe why this technique is used and how, the principles behind it and add a few keywords
+  
+- Commercial variants
+
+  Evaluate and approximate the costs of obtaning a commercial device
+  
+- Available DIY resources
+
+  Here, the actual DIY resources are reviewed. Emphasize on the currently most developed projects (if any), their specifications, cost (if known) and applicability.
+  
+- Is DIY good enough and reasonable?
+
+  Compare the DIY projects described above, with comercial devices, considering general use and requirements.
+  
+- Requirements and plans
+
+  Briefly describe the requirements and focus points of the device type in general - what is most important for the device to get a good evaluation.
+  
+---
+
 #### License
 
 All our projects are as usefully open-source as possible.
