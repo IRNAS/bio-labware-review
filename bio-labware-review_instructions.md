@@ -3,6 +3,7 @@ Anyone who wishes it, can add to our bio-labware review! But to maintain more-or
 1. The posts are written in github markdown syntax.
 
 2. All device-posts should have the same content structure, which is as follows:
+
 - Background
 
   Describe why this technique is used and how, the principles behind it and add a few keywords
