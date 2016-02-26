@@ -179,7 +179,7 @@ Pipettes are lab tools, capable of transfering precise volumes of liquids from o
 Keywords: microliter, pipette, automatic, adjustable
 
 ####2. Commercial variants
-The average “wetlab” user requires at least 3 microliter pipettes, one for each range of 1-10ul, 10-100ul and 100-1000ul. A single, cheap pipette costs 50€ or more, typically 200-300€ for popular brands. They allow an accuracy and precision of 1ul. Most models of different brands use the same standard sized tips, which are consumables and can be acquired cheaply.
+The average “wetlab” user requires at least 3 microliter pipettes, one for each range of 1-10μl, 10-100μl and 100-1000μl. A single, cheap pipette costs 50€ or more, typically 200-300€ for popular brands. They allow an accuracy and precision of 0.1-1μl. Most models of different brands use the same standard sized tips, which are consumables and can be acquired cheaply.
 In recent years, more electronic pipettes are also being developed, with programmable pipetting, which are however appropriately expensive.
 
 ####3. Available DIY resources
