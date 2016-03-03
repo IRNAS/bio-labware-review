@@ -1,3 +1,7 @@
+##Microscopy <a id="Microscopy"></a>
+
+###Table of contents
+
 - [Overview](https://github.com/symbiolab/bio-labware/blob/master/000_bio-labware_overview.md)
 - [General/wet preparation equipment](https://github.com/symbiolab/bio-labware/blob/master/010_general_preparation.md)
   * [Fine Weighing Scale/ Microbalance](https://github.com/symbiolab/bio-labware/blob/master/010_general_preparation.md#Microbalance)
@@ -31,7 +35,7 @@
 - [Various methods](#Various-methods)
 
 
-##Microscopy <a id="Microscopy"></a>
+###Introduction
 The focus in this chapter lies in creating an overview of the more basic and general types of microscopy, for example optical microscopy, however, we DO NOT go into detail of more specialized and advanced techniques at this point (like confocal, phase contrast, interference microscopy, etc.). Hopefully, we will be able to fill in such gaps in the future. A fantastic resource on microscopes, how they work, advantages/dissadvantages, etc., can be found [here](http://www.microscopemaster.com/).
 
 ###Stero microscope <a id="Stereo-microscope"></a>
