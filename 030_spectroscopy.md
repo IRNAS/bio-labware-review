@@ -1,4 +1,39 @@
 ##Spectroscopy <a id="Spectroscopy"></a>
+
+###Table of contents
+- [Overview](https://github.com/symbiolab/bio-labware/blob/master/000_bio-labware_overview.md)
+- [General/wet preparation equipment](https://github.com/symbiolab/bio-labware/blob/master/010_general_preparation.md)
+  * [Fine Weighing Scale/ Microbalance](https://github.com/symbiolab/bio-labware/blob/master/010_general_preparation.md#Microbalance)
+  * [Magnetic stirrer](https://github.com/symbiolab/bio-labware/blob/master/010_general_preparation.md#Magnetic-stirrer)
+  * [Centrifuge](https://github.com/symbiolab/bio-labware/blob/master/010_general_preparation.md#Centrifuge)
+  * [Vortex mixer](https://github.com/symbiolab/bio-labware/blob/master/010_general_preparation.md#Vortex-mixer)
+  * [Lab jack](https://github.com/symbiolab/bio-labware/blob/master/010_general_preparation.md#Lab-jack)
+  * [Microliter pipette](https://github.com/symbiolab/bio-labware/blob/master/010_general_preparation.md#Microliter-pipette)
+  * [pH meter](https://github.com/symbiolab/bio-labware/blob/master/010_general_preparation.md#pH-meter)
+  * [Ultrasonic bath](https://github.com/symbiolab/bio-labware/blob/master/010_general_preparation.md#Ultrasonic-bath)
+- [Microscopy](https://github.com/symbiolab/bio-labware/blob/master/020_microscopy.md)
+  * [Stereo microscope](https://github.com/symbiolab/bio-labware/blob/master/020_microscopy.md#Stereo-microscope)
+  * [Classical optical microscope](https://github.com/symbiolab/bio-labware/blob/master/020_microscopy.md#Optical-microscope)
+  * [Fluorescence microscope](https://github.com/symbiolab/bio-labware/blob/master/020_microscopy.md#Fluorescence-microscope)
+  * [Microtome](https://github.com/symbiolab/bio-labware/blob/master/020_microscopy.md#Microtome)
+  * [Transmission electron microscope](https://github.com/symbiolab/bio-labware/blob/master/020_microscopy.md#TEM)
+  * [Scanning electron microscope](https://github.com/symbiolab/bio-labware/blob/master/020_microscopy.md#SEM)
+  * [Sputter coater](https://github.com/symbiolab/bio-labware/blob/master/020_microscopy.md#Sputter-coater)
+  * [Scanning tunneling microscope](https://github.com/symbiolab/bio-labware/blob/master/020_microscopy.md#STM)
+  * [Atomic force microscope](https://github.com/symbiolab/bio-labware/blob/master/020_microscopy.md#AFM)
+- [Spectroscopy](https://github.com/symbiolab/bio-labware/blob/master/030_spectroscopy.md)
+  * [UV-Vis spectroscope](https://github.com/symbiolab/bio-labware/blob/master/030_spectroscopy.md#UV-Vis-spect)
+  * [IR spectroscope](https://github.com/symbiolab/bio-labware/blob/master/030_spectroscopy.md#IR-spect)
+  * [Fluorescence spectroscope](https://github.com/symbiolab/bio-labware/blob/master/030_spectroscopy.md#Fluo-spect)
+  * [Raman spectroscope](https://github.com/symbiolab/bio-labware/blob/master/030_spectroscopy.md#raman)
+- [Chromatography](#Chromatography)
+- [Immunohistochemistry](#Immunohistochemistry)
+- [Genetics and Proteomics](#Genetics-and-Proteomics)
+- [Cell culture](#Cell-culture)
+- [Organic 3D printing](#Organic-3D-printing)
+- [Various methods](#Various-methods)
+
+###Introduction
 Spectroscopy is the study of material interaction with waves, which produces specific spectra, that can be detected and analyzed. Typically, spectroscopy is associated with the interaction of matter with electromagnetic radiation, which is either absorbed, reflected or emitted and creates a specific pattern in the spectrum. Measuring the resulting wavelengths and intensity, is what we call spectrophotometry. Since the detected beam of radiation usually contains many different wavelenghts, these are often separated before detection, by means of diffraction (gratings), refraction (optical prisms),...
 
 Spectroscopy is a very broad field of study and includes many disciplines and techniques, which can be classified by either the type of energy, type of interaction, materials, etc. In biology itself, many techniques are used, we will, however, only be discussing a few most commonly used ones.
