@@ -1,4 +1,4 @@
-###General preparation
+##Wet preparation equipment <a id="Wet-preparation"></a>
 
 ###Table of contents
 
@@ -35,7 +35,7 @@
 - [Various methods](#Various-methods)
 
 
-##Wet preparation equipment <a id="Wet-preparation"></a>
+
 ###Fine Weighing Scale/ Microbalance <a id="Microbalance"></a>
 ![Homemade_microbalance](http://sci-toys.com/scitoys/scitoys/mathematics/microgram_balance/whole_scale.jpg)
 
