@@ -13,7 +13,7 @@ As there is an overflow of possibilities and devices for laboratory use, it is n
   * [Centrifuge](https://github.com/symbiolab/bio-labware/blob/master/010_general_preparation.md#Centrifuge)
   * [Vortex mixer](https://github.com/symbiolab/bio-labware/blob/master/010_general_preparation.md#Vortex-mixer)
   * [Lab jack](https://github.com/symbiolab/bio-labware/blob/master/010_general_preparation.md#Lab-jack)
-  * [Microliter pipette](https://github.com/symbiolab/bio-labware/blob/master/010_general_preparation.mdMicroliter-pipette)
+  * [Microliter pipette](https://github.com/symbiolab/bio-labware/blob/master/010_general_preparation.md#Microliter-pipette)
   * [pH meter](https://github.com/symbiolab/bio-labware/blob/master/010_general_preparation.md#pH-meter)
   * [Ultrasonic bath](https://github.com/symbiolab/bio-labware/blob/master/010_general_preparation.md#Ultrasonic-bath)
 - [Microscopy](https://github.com/symbiolab/bio-labware/blob/master/020_microscopy.md)
