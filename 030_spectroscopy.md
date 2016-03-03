@@ -95,10 +95,9 @@ Providing, a UV lightsource can be assured, a fluorescence spectrometer could, i
 
 ![spectra_raman](https://cloud.githubusercontent.com/assets/17159617/13487305/2b79db52-e119-11e5-985f-a611cc8838a6.png)
 
-Sources:
+Sources: https://www.semrock.com/high-performance-raman-spectroscopy.aspx
 http://www.laboratoryequipment.com/articles/2013/03/raman-spectroscopy-tackles-pharmaceutical-raw-materials
 
-https://www.semrock.com/high-performance-raman-spectroscopy.aspx
 
 ####1. Background
 Raman spectroscopy is a technique, used to identify molecular bonds in a material, by observing their low-frequency vibrations. These are produced by Raman scattering of usually very intense monochromatic light. A laser beam is projected on a sample and the light from the illuminated spot is collected, filtered (reflected laser light is removed), difracted on a grating and the spectrum is recorded and analyzed. The so called "fingerprint" spectrum, which can be used for the identification of most bonds, lies between 400-1500 wavenumbers (<sup>-1</sup>), which reflects wavelengths in the IR spectrum. A great resource on Raman spectroscopy with much more information can be found [here](http://www.omegafilters.com/applications/raman-spectroscopy/).
