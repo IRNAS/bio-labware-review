@@ -7,6 +7,7 @@ Saying this, while we plan to collect as much DIY equipment as possible, it is i
 
 As there is an overflow of possibilities and devices for laboratory use, it is not unlikely, we will forget something in our list. If there is something that you miss, feel free to contact us and add suggestions.
 
+- [Overview](https://github.com/symbiolab/bio-labware/blob/master/000_bio-labware_overview.md)
 - [General/wet preparation equipment](https://github.com/symbiolab/bio-labware/blob/master/010_general_preparation.md)
   * [Fine Weighing Scale/ Microbalance](https://github.com/symbiolab/bio-labware/blob/master/010_general_preparation.md#Microbalance)
   * [Magnetic stirrer](https://github.com/symbiolab/bio-labware/blob/master/010_general_preparation.md#Magnetic-stirrer)
