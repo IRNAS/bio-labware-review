@@ -89,12 +89,15 @@ Source: By Rkalendar (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licens
 
 ####1. Background
 Gel electrophoresis is a separation method for large biomolecules, such as proteins or nucleic acids. An even and flat gel (stationary phase) with sample pockets, is placed into a buffer (mobile phase) and subjected to an electric current, which forces the buffer, allong with the samples through the gel. Different gel materials are used for different purposes. For proteins, usually acrylamide gel is used (in a technique called SDS-PAGE), for nucleic acids, typically agarose gel is used. While not used much anymore, it is also possible to make separation gels from partially hydrolized [starch](http://www.ithanet.eu/ithapedia/index.php/Protocol:Starch_gel_electrophoresis). It doesn't have the resolution power of other gel types, is however cheaper and less toxic for the environment. The exact method may vary for each material, however, in general, the following procedure is used:
-1. gel preparation and casting: 
+
+Gel preparation and casting: 
 The solutions for Acrylamide gels are typically cast inbetween two glass plates, separated by approx. 1mm thick spacers (teflon, silicone,...). This is done in 2 steps (first the separation gel and a stacking gel on top). This is a chemical polymerization process, which offers limited control, therefore the mixing and casting the gel needs to be fast and efficient.
 Agarose gels are often cast directly into the electrophoresis chamber, and the sample pockets are created on the side. The polymerization is thermally regulated and the gel is first melted in a microwave, cast and cooled for polymerization.
-2. Sample preparation and application:
+
+Sample preparation and application:
 The samples often require additional preparation, before they can be separated. Proteins for example, are denaturated and given a negative charge (achieved by sodium dodecylsulphate - SDS). The samples are mixed with a stained sample buffer, to follow the process during the run. The gels are placed (if not there already) into the electrophoresis chamber, which is filled with buffer and carefully, the samples are applied into the pockets. 
-3. Separation and evaluation
+
+Separation and evaluation:
 Current, voltage and time are set, then the separation begins and is finished, after the sample buffer has left the gel. To evaluate the separation, the samples are either visualized with light (DNA, using gel documentation), stained (Coomassie's staining for SDS-PAGE gels), or transfered by blotting and further processed.
 
 Keywords: gel, electrophoresis, acrylamide, SDS-PAGE, agarose, starch
