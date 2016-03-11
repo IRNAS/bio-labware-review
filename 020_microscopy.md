@@ -8,6 +8,7 @@
   * [Stereo microscope](https://github.com/symbiolab/bio-labware/blob/master/020_microscopy.md#Stereo-microscope)
   * [Classical optical microscope](https://github.com/symbiolab/bio-labware/blob/master/020_microscopy.md#Optical-microscope)
   * [Fluorescence microscope](https://github.com/symbiolab/bio-labware/blob/master/020_microscopy.md#Fluorescence-microscope)
+  * [Two-photon laser microscope (link)](https://openwiki.janelia.org/wiki/display/shareddesigns/Shared+Two-photon+Microscope+Designs)
   * [Microtome](https://github.com/symbiolab/bio-labware/blob/master/020_microscopy.md#Microtome)
   * [Transmission electron microscope](https://github.com/symbiolab/bio-labware/blob/master/020_microscopy.md#TEM)
   * [Scanning electron microscope](https://github.com/symbiolab/bio-labware/blob/master/020_microscopy.md#SEM)
