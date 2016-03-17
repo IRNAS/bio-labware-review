@@ -1,6 +1,6 @@
 # Bio Labware
 
-This repository contains a [complete bio labware review]https://github.com/symbiolab/bio-labware/blob/master/000_bio-labware_overview.md ) – a collection of affordable and DIY laboratory equipment, which is required for common methodology in a biological research lab.
+This repository contains a [complete bio labware review](https://github.com/symbiolab/bio-labware/blob/master/000_bio-labware_overview.md) – a collection of affordable and DIY laboratory equipment, which is required for common methodology in a biological research lab.
 
 As there is an overflow of possibilities and devices for laboratory use, it is not unlikely, we will forget something in our list. If there is something that you miss, feel free to add suggestions or [contact us](mailto:bostjan@irnas.eu).
 
