@@ -57,7 +57,7 @@ UV-Vis-fluorescence detectors for HPLC in principle have the same requirements, 
 
 ###Refractive Index detection (RI) <a id="RI"></a>
 
-![RI](https://en.m.wikipedia.org/wiki/Refractive_index#/media/File%3ARefraction_photo.png)
+![ref-ind](https://upload.wikimedia.org/wikipedia/commons/8/85/Refraction_photo.png)
 
 Source: By ajizai - http://www.docstoc.com/docs/130534946/Chapter-7-Refractive-index, Public Domain, https://commons.wikimedia.org/w/index.php?curid=30455241
 
