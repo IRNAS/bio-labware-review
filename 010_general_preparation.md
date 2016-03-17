@@ -15,7 +15,7 @@
 - [Microscopy](https://github.com/symbiolab/bio-labware/blob/master/020_microscopy.md)
 - [Spectroscopy](https://github.com/symbiolab/bio-labware/blob/master/030_spectroscopy.md)
 - [Chromatography (separation)](https://github.com/symbiolab/bio-labware/blob/master/040_chromatography_sep.md)
-- [Chromatography (detection)](#Chromatography)
+- [Chromatography (detection)](https://github.com/symbiolab/bio-labware/blob/master/050_chromatography_det.md)
 - [Immunohistochemistry](#Immunohistochemistry)
 - [Cell culture](#Cell-culture)
 - [Organic 3D printing](#Organic-3D-printing)
