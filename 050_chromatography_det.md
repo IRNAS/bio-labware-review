@@ -14,7 +14,6 @@
   * [Electrochemical detection](#ED)
   * [Flame ionization detection (FID)](#FID)
 - [Immunohistochemistry](#Section-5)
-- [Genetics and Proteomics](#Section-6)
 - [Cell culture](#Section-7)
 - [Organic 3D printing](#Section-8)
 - [Various methods](#Section-9)
