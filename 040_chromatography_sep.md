@@ -9,7 +9,7 @@
   * [High performace liquid chromatography (HPLC)](#HPLC)
   * [Gas chromatography (GC)](#GC)
   * [Gel electrophoresis](#Gel-electrophoresis)
-- [Chromatography (detection)](#chrom-det)
+- [Chromatography (detection)](https://github.com/symbiolab/bio-labware/blob/master/050_chromatography_det.md)
 - [Immunohistochemistry](#Immunohistochemistry)
 - [Cell culture](#Cell-culture)
 - [Organic 3D printing](#Organic-3D-printing)
