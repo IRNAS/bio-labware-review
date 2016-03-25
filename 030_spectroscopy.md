@@ -11,7 +11,7 @@
   * [Raman spectroscope](https://github.com/symbiolab/bio-labware/blob/master/030_spectroscopy.md#raman)
 - [Chromatography (separation)](https://github.com/symbiolab/bio-labware/blob/master/040_chromatography_sep.md)
 - [Chromatography (detection)](https://github.com/symbiolab/bio-labware/blob/master/050_chromatography_det.md)
-- [Immunohistochemistry](#Immunohistochemistry)
+- [Molecular Biology](https://github.com/symbiolab/bio-labware/blob/master/060_molecular_biology.md)
 - [Cell culture](#Cell-culture)
 - [Organic 3D printing](#Organic-3D-printing)
 - [Various methods](#Various-methods)
