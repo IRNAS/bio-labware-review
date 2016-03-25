@@ -48,7 +48,7 @@ As there is an overflow of possibilities and devices for laboratory use, it is n
 - [Molecular Biology](https://github.com/symbiolab/bio-labware/blob/master/060_molecular_biology.md)
   * [Immunoassay analyzer / plate reader](https://github.com/symbiolab/bio-labware/blob/master/060_molecular_biology.md#ELISA)
   * [Blotting device](https://github.com/symbiolab/bio-labware/blob/master/060_molecular_biology.md#blot)
-  * [Darkroom and photo-processing]https://github.com/symbiolab/bio-labware/blob/master/060_molecular_biology.md#darkroom)
+  * [Darkroom and photo-processing](https://github.com/symbiolab/bio-labware/blob/master/060_molecular_biology.md#darkroom)
   * [Thermocycler / PCR machine](https://github.com/symbiolab/bio-labware/blob/master/060_molecular_biology.md#PCR)
   * [Gene gun](https://github.com/symbiolab/bio-labware/blob/master/060_molecular_biology.md#gene-gun)
 - [Cell culture](#Cell-culture)
