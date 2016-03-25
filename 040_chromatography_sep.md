@@ -10,7 +10,7 @@
   * [Gas chromatography (GC)](#GC)
   * [Gel electrophoresis](#Gel-electrophoresis)
 - [Chromatography (detection)](https://github.com/symbiolab/bio-labware/blob/master/050_chromatography_det.md)
-- [Immunohistochemistry](#Immunohistochemistry)
+- [Molecular Biology](https://github.com/symbiolab/bio-labware/blob/master/060_molecular_biology.md)
 - [Cell culture](#Cell-culture)
 - [Organic 3D printing](#Organic-3D-printing)
 - [Various methods](#Various-methods)
