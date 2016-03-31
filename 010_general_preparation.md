@@ -3,15 +3,20 @@
 ###Table of contents
 
 - [Overview](https://github.com/symbiolab/bio-labware/blob/master/000_bio-labware_overview.md)
-- [General/wet preparation equipment](https://github.com/symbiolab/bio-labware/blob/master/010_general_preparation.md)
-  * [Fine Weighing Scale/ Microbalance](https://github.com/symbiolab/bio-labware/blob/master/010_general_preparation.md#Microbalance)
-  * [Magnetic stirrer](https://github.com/symbiolab/bio-labware/blob/master/010_general_preparation.md#Magnetic-stirrer)
-  * [Centrifuge](https://github.com/symbiolab/bio-labware/blob/master/010_general_preparation.md#Centrifuge)
-  * [Vortex mixer](https://github.com/symbiolab/bio-labware/blob/master/010_general_preparation.md#Vortex-mixer)
-  * [Lab jack](https://github.com/symbiolab/bio-labware/blob/master/010_general_preparation.md#Lab-jack)
-  * [Microliter pipette](https://github.com/symbiolab/bio-labware/blob/master/010_general_preparation.md#Microliter-pipette)
-  * [pH meter](https://github.com/symbiolab/bio-labware/blob/master/010_general_preparation.md#pH-meter)
-  * [Ultrasonic bath](https://github.com/symbiolab/bio-labware/blob/master/010_general_preparation.md#Ultrasonic-bath)
+- [General/wet preparation equipment](https://github.com/symbiolab/bio-labware/blob/master/010_general_preparation.md
+  * [Fine Weighing Scale/ Microbalance](#Microbalance)
+  * [Magnetic stirrer](#Magnetic-stirrer)
+  * [Rotation wheel / tube rotator](#rotation-wheel)
+  * [Centrifuge](#Centrifuge)
+  * [Vortex mixer](#Vortex-mixer)
+  * [Laboratory (orbital) shaker](#shaker)
+  * [Lab jack](#Lab-jack)
+  * [Microliter pipette](#Microliter-pipette)
+  * [pH meter](#pH-meter)
+  * [Ultrasonic bath](#Ultrasonic-bath)
+  * [Heating plate / slide warmer](#heat-plate)
+  * [Block heater (dry)](#heat-block)
+  * [Fume hood](#fume-hood)
 - [Microscopy](https://github.com/symbiolab/bio-labware/blob/master/020_microscopy.md)
 - [Spectroscopy](https://github.com/symbiolab/bio-labware/blob/master/030_spectroscopy.md)
 - [Chromatography (separation)](https://github.com/symbiolab/bio-labware/blob/master/040_chromatography_sep.md)
@@ -77,6 +82,29 @@ Magnetic stirrers would definitely go in the category of equipment, where DIY is
 ####5. Requirements and plans
 Magnetic stirrers are cheap and easy to make, therefore we will try to establish our own model. The goal will be a stirrer, which is portable, yet can be connected to an external power supply. It should have an adjustable stirring speed (1-20Hz), which can, in addition to heating, possibly also be able to cool (0-100°C) and be controlled externally. It would be practical, to have one model without heating/cooling, which is compact and can be placed in climatized chambers (fridge, incubator).
 
+---
+
+###Rotation wheel / tube rotator <a id="rotation-wheel"></a>
+![rotator-sb2](https://cloud.githubusercontent.com/assets/17159617/14168954/5cd9aafc-f725-11e5-80ed-7af6616375b1.jpg)
+
+Source: http://bmskgroup.com/product/mixers-rotators-tubes/
+
+####1. Background
+The rotation wheel is actualy a general preparation tool, but is often used for immunohistochemical preparation. Simply put, it is a slowly rotating wheel (0-1Hz), positioned at an (usually adjustable) angle. As a result, samples in small containers (eppendorf tubes, packages of blotting membranes with antibodies) attached to it are slowly stirred during the rotation.
+
+Keywords: rotating, rotation, rotator, tube, wheel, mixer
+
+####2. Commercial variants
+Commercial rotation mixers usually cost several hundred €.
+
+####3. Available DIY resources
+Currently, there seem to be two DIY projects, which aim to make a good sample rotator. The [first design](http://www.teklalabs.org/sample-rotator/) is a rotating wheel from Teklalabs, suitable for rotating multiple falcons. The second one is a sample rotator from [NetFabb](http://3dprint.nih.gov/discover/3dpx-002349), that builds on a previous open-source device. It uses uses adjustable flaps, so samples can be rotated under different angles.
+
+####4. Is DIY good enough and reasonable?
+The expected requirements for sample rotators / rotating wheels are not very high, and both designs seem adequate for the desired purpose.
+
+####5. Requirements and plans
+Rotating wheels / sample rotators should be capable to slowly stir liquid samples in different small sized (up to 50ml) containers. They should allow the attachment of different container types, have an adjustable rotation angle and speed, which is still relatively slow (0-2Hz).
 
 ---
 
@@ -129,6 +157,30 @@ What would improve the device even more, would be exchangable mounts (for exampl
 
 ####5. Requirements and plans
 A vortex mixer should have an adjustable rotation speed (0-20Hz), on a small oscillation radius (~1cm). An improvement would be, the rotation starting at applied pressure and a time counter (seconds).
+
+---
+
+###Laboratory (orbital) shaker <a id="shaker"></a>
+![sceom5-medium-orbital-shaker-analogue-3](https://cloud.githubusercontent.com/assets/17159617/14168450/cea1b97a-f722-11e5-98c7-47cbb14564dc.jpg)
+
+Source: http://www.instrumentchoice.com.au/instrument-choice/lab-equipment/Mixers/medium-orbital-shaker-analogue-sceom5
+
+####1. Background
+A laboratory shaker is by operation very similar to the [vortex mixer](#Vortex-mixer), however, instead of a small sample holder, it has a larger surface, where multiple containers (flasks, beakers,...) can be placed and shaken. The shaking begins after turning the on switch and the rotation is substantially slower (0,1-5Hz) and has a wider radius, compared to the vortex mixer. The principle, however, is the same. Laboratory shakers, also orbital shakers, are devices used for even and slow stirring of liquid samples, often contained in glass utensils such as flasks, beakers, culture dishes. They are particularly usefull for gently suspending cell cultures/preventing sedimentation, without posing too much stress on the cells.
+
+Keywords: laboratory, orbital, shaker
+
+####2. Commercial variants
+Commercial lab shakers cost a few hundred to a few thousand €.
+
+####3. Available DIY resources
+There are plenty resources on making DIY lab shakers, that come in different forms and even use different principles. A few of the designs include motion in only [one direction](http://www.instructables.com/id/Cheap-and-Easy-Lab-Agitator-Shaker-Great-for-PCBs-/), or [tilting movement](http://www.thingiverse.com/thing:5045) during the rotation, or simple orbital rotation, such as [here](http://splasho.com/blog/2014/04/08/openorbital-a-3d-printed-orbital-shaker/) with one motor, or [here](https://www.youmagine.com/designs/orbital-shaker).
+
+####4. Is DIY good enough and reasonable?
+The requirements for orbital shakers aren't very high, thus many of the DIY models seem good enough for most uses. Especially the 2nd and 3rd listed models seem to work very well.
+
+####5. Requirements and plans
+A laboratory shaker should have a stable platform, which allows the shaking of multiple containers, and an adjustable rotation mechanism (speed, possibly rotation radius). Optional is also a time counter, showing for how long the shaking has already taken place.
 
 ---
 
@@ -227,3 +279,75 @@ It is questionable, whether it is reasonable to build a DIY ultrasound bath, sin
 ####5. Requirements and plans
 
 For simple cleaning of glassware or utensils and degassing of liquids, cheap commercial devices are sufficient and would be our first choice, however, some experimentation on the DIY devices would be interesting, especially if these can be made cheaper, while more versatile. The important issue is the frequency (20-40kHz) and adjustable sonication time.
+
+---
+
+###Heating plate / slide warmer <a id="heat-plate"></a>
+![lablinewarmer01_65](https://cloud.githubusercontent.com/assets/17159617/14169038/ebfcd89e-f725-11e5-9f06-40d84e636873.jpg)
+
+Source: http://www.pemed.com/lab/hotplates/hotplates.htm
+
+####1. Background
+When talking about heating plates in a laboratory, people usually have one of two possible associations: the heating top part of a magnetic stirrer or a slide warmer. In this section, we will be discussing the latter. While designed for warming and drying of microscope slides, these devices have other uses as well and come as a great addition for many a laboratory. In principle, they have a flat surface that is evenly heated to a temperature of 20-100°C, which can be precisely adjusted (1°C per step) and held constant.
+
+Keywords: heating, plate, slide, warmer
+
+####2. Commercial variants
+Slide warmers are typically available for 300-500€, but smaller devices also come for less (approx. 200€).
+
+####3. Available DIY resources
+Slide warmers have not yet arrived in the DIY community. However, there seem to be a relatively simple hack for replicating them, which can be derived from DIY 3D printers. Using a heat-bed, which can evenly heat a plate to T above 100°C and only costs 20-30€, covered with a protective material (glass, aluminium) seems a good idea.
+
+####4. Is DIY good enough and reasonable?
+/
+
+####5. Requirements and plans
+As mentioned, for heating plates (slide warmers) it is important to evenly and precisely heat a surface, from room temperature to at least 100°C in steps of 1°C.
+
+---
+
+###Block heater (dry) <a id="heat-block"></a>
+![block_heater](https://cloud.githubusercontent.com/assets/17159617/14169126/5bf9f74e-f726-11e5-92da-55dec20ba166.jpg)
+
+Source: http://www.keison.co.uk/stuart_sbh130dsbh200d.shtml
+
+####1. Background
+Despite curious names, such as "block heater" or "dry bath", the functionality of these devices is actually very straightforward. They are used for heating of small containers (eppendorf tubes) inside an aluminium block (with appropriate holes) at certain constant temperatures. Often this is used to inhibit the activity of certain molecules, or to make others more susceptible to treatment.
+
+Keywords: block, heater, dry, bath
+
+####2. Commercial variants
+New commercial block heaters cost around 1000€. While used ones are available for significantly less, they typically still come at 200€ or more.
+
+####3. Available DIY resources
+There are no DIY designs for block heaters by them selves, which is surprising, since they are actually used in [thermocyclers / PCR machines](https://github.com/symbiolab/bio-labware/blob/master/060_molecular_biology.md#PCR), for which quite a few models are available. To read more, check out the [Molecular Biology](https://github.com/symbiolab/bio-labware/blob/master/060_molecular_biology.md) chapter.
+
+####4. Is DIY good enough and reasonable?
+Considering the derived modules from the DIY thermocyclers, the DIY designs are both good enough and reasonable.
+
+####5. Requirements and plans
+The device should be able to set and hold an even temperature in the metallic (aluminium) block, ranging from room temperature to 100°C. Making heating and cooling fast, would also be beneficial, is however not obligatory. The blocks can be exchangable and adapted for different tube sizes.
+
+---
+
+###Fume hood <a id="fume-hood"></a>
+![800px-fume_hood](https://cloud.githubusercontent.com/assets/17159617/14169354/8d31cbf6-f727-11e5-8d7d-f56ce266aaaa.jpg)
+
+Source: By Hey Paul from Sacramento, CA, USA - IMG_0071, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=18244309
+
+####1. Background
+The fume hood is a chamber-exhaust system, used for work with dangerous, especially volatile compounds and is supposed to protect the user! It usually has one large opening, which allows relatively free arm and hand movement, and another opening which is connected to a ventilation system, to evenly draw air from the chamber. The inside of the hood is made from more or less inert materials, especially the bottom plate is mostly covered with laboratory ceramics. The air suction system has to be adjusted, to ensure, no gaseous substances can escape the chamber from the large opening. Additional internal lighting is also beneficial for larger systems. More about fume hoods and safe operation can be found [here](http://www.escoglobal.com/resources/pdf/guide-fumehoods.pdf).
+
+Keywords: fume, hood, toxic, volatile, compounds, safety
+
+####2. Commercial variants
+Fume hoods come in different forms and sizes. Most common are probably the large chemical hoods, stretching from the floor to the ceiling, but smaller - benchtop devices are often used as well. The first type is substantially more expensive, costing several thousand €. The second type is cheaper, but can also cost well above 1k.
+
+####3. Available DIY resources
+For DIY, only table top designs are available, which are, however, fully sufficient for the average hobbyist. A few examples are shown [here](http://www.instructables.com/id/Building-a-small-fume-hood-for-stinky-projects/), [here](http://www.sciencemadness.org/talk/viewthread.php?tid=21508) or [here](http://hackaday.com/2013/11/30/over-powered-fume-hood-is-awesome/). These designs were made for "stinky" yet not very toxic and/or aggressive chemicals. This would pose a safety risk and require chemically resistant materials, such as glass, laboratory ceramics, stainless steel, etc. One such design is shown [here](https://www.youtube.com/watch?v=VshWeoiCw8E), it is, however, not well documented. On the other hand, the buildup is probably the same as in other projects, just using glass and steel for the exposed components. What is probably even more important than the materials themselves, is sufficient ventilation. Typical operation ranges from 60fpm (feet per minute, approximately 0.3m/s), to 100fpm (0.5m/s), which also depends on the size of the hood. Even suction has to be assured (high airflow velocities are actually disadvantageous), without creating large turbulences, which could let fumes from the inside escape towards the user. Luckily, new kitchen hoods are perfectly capable of sustaining such airflows, and perhaps only require an exchange of the outer coverings and filters with inert ones.
+
+####4. Is DIY good enough and reasonable?
+It is currently difficult to comment on the state of DIY fume hoods, as little, to no quantitative tests were done on the performance and safety of the DIY devices. Considering only the technical data, however, a "good enough" DIY fume hood system should be achievable, provided that a safe exhaustion can be installed.
+
+####5. Requirements and plans
+As mentioned above, fume hoods for work with dangerous chemicals, shoud be constructed from inert materials and sustain suitable air flow, to protect the user.
