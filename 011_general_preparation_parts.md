@@ -17,7 +17,7 @@ This section is a overview of most parts for certain operations used in particul
 - Measuring equipment - basic parts
  * PH meter
  * Temperature meter
- * Fine Wwighing scale
+ * Fine Weighing scale
 
 ###NodeMCU
 ![NodeMCU](http://www.seeedstudio.com/depot/images/113990105%201.jpg)
