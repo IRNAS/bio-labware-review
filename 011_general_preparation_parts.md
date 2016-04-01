@@ -33,7 +33,7 @@ For the best user interaction, a display with a rotary encoder will be implement
 Is used for switching between different modes of operation. Its uses differ from one application to another, from a manual full throttle, to an emergency stop. Its full functionality will be defined in the software.
 
 ####Heat-bed <a id="Heat_bed"></a>
-A PCB Heat-bed, commonly used in 3D printing technology, is a great solution for the [Heating plate / slide warmer](https://github.com/symbiolab/bio-labware/blob/master/010_general_preparation.md#heat-plate) or [Magnetic stirrer](https://github.com/symbiolab/bio-labware/blob/master/010_general_preparation.md#Magnetic-stirrer). Its slow heating process makes it appropriate for applications where lower(under 100°C) and more stable temperatures are preferred. Another advantage of the heat bed is its heat distribution as seen from the [Thermal picture](http://blog.brixandersen.dk/wp-content/uploads/IR003957.jpg). Together with a integrated thermistor it forms a self-regulating system, with the ability to heat up to a certain temperature and maintain it.
+A PCB Heat-bed, commonly used in 3D printing technology, is a great solution for the [Heating plate / slide warmer](https://github.com/symbiolab/bio-labware/blob/master/010_general_preparation.md#heat-plate) or  [Magnetic stirrer](https://github.com/symbiolab/bio-labware/blob/master/010_general_preparation.md#Magnetic-stirrer). Its slow heating process makes it appropriate for applications where lower(under 100°C) and more stable temperatures are preferred. Another advantage of the heat bed is its heat distribution as seen from the [Thermal picture](http://blog.brixandersen.dk/wp-content/uploads/IR003957.jpg). Together with a integrated thermistor it forms a self-regulating system, with the ability to heat up to a certain temperature and maintain it.
 
 
 ###Rotating equipment - basic parts <a id="Rotating_parts"></a>
@@ -52,12 +52,12 @@ In certain cases, e.g. [vortex mixer](https://github.com/symbiolab/bio-labware/b
 ###Measuring equipment - basic parts <a id="Measuring_parts"></a>
 ![Measurnig_equipment](http://www.phidgets.com/wiki/images/6/6b/3550_0.jpg)
 
-Soource:http://www.phidgets.com/wiki/images/6/6b/3550_0.jpg
+Source:http://www.phidgets.com/wiki/images/6/6b/3550_0.jpg
 
 All in all, measurements in the laboratory are taken with a large variety of sensors. The most GPIO pin efficient way to go would be, to make a universal input for all types of sensors, but this delivers the dilemma of constant sensor calibration.
 
 ####pH sensor <a id="PH"></a>
-Determining whether a sample is acid, neutral or basic is one of the fundamental biochemic tests, to know this we need to measure its pH value, which is deterined by the amount hidrogen ion (H+) concentration in the sample. The goal is to use a pH sensor to measure the pH value with 0,01 accuracy.
+Determining whether a sample is acid, neutral or basic is one of the fundamental bio-chemic tests, to know this we need to measure its pH value, which is deterined by the amount hydrogen ion (H+) concentration in the sample. The goal is to use a pH sensor to measure the pH value with 0,01 accuracy.
 
 ####Temperature sensor <a id="temp"></a>
 Its main function is to measure the temperature, but with this data a lot of other equipment can adjust their operation accordingly. It will enable self-regulating processes which are crucial for long term consistency and reproducibility of experiments.
