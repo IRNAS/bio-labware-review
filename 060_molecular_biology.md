@@ -13,8 +13,8 @@
   * [Darkroom and photo-processing](#darkroom)
   * [Thermocycler / PCR machine](#PCR)
   * [Gene gun](#gene-gun)
-- [Cell culture](#Section-7)
-- [Organic 3D printing](#Section-8)
+- [Cell culture](https://github.com/symbiolab/bio-labware/blob/master/070_cell_culture.md)
+- [3D bio printing](https://github.com/symbiolab/bio-labware/blob/master/080_3d_bioprint.md)
 - [Various methods](#Section-9)
 
 
