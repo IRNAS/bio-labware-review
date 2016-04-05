@@ -12,8 +12,8 @@
 - [Chromatography (separation)](https://github.com/symbiolab/bio-labware/blob/master/040_chromatography_sep.md)
 - [Chromatography (detection)](https://github.com/symbiolab/bio-labware/blob/master/050_chromatography_det.md)
 - [Molecular Biology](https://github.com/symbiolab/bio-labware/blob/master/060_molecular_biology.md)
-- [Cell culture](#Cell-culture)
-- [Organic 3D printing](#Organic-3D-printing)
+- [Cell culture](https://github.com/symbiolab/bio-labware/blob/master/070_cell_culture.md)
+- [3D bio printing](https://github.com/symbiolab/bio-labware/blob/master/080_3d_bioprint.md)
 - [Various methods](#Various-methods)
 
 ###Introduction
