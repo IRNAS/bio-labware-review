@@ -1,4 +1,4 @@
-##Chromatography - detection <a id="chrom-det"></a>
+##Chromatography (detection) <a id="chrom-det"></a>
 
 ###Table of contents
 - [Overview](https://github.com/symbiolab/bio-labware/blob/master/000_bio-labware_overview.md)
@@ -6,7 +6,7 @@
 - [Microscopy](https://github.com/symbiolab/bio-labware/blob/master/020_microscopy.md)
 - [Spectroscopy](https://github.com/symbiolab/bio-labware/blob/master/030_spectroscopy.md)
 - [Chromatography (separation)](https://github.com/symbiolab/bio-labware/blob/master/040_chromatography_sep.md)
-- [Chromatography - detection](#chrom-det)
+- [Chromatography (detection)](#chrom-det)
   * [UV-Vis and fluorescence detection](#uv-vis-fluo)
   * [Refractive Index detection (RI)](#RI)
   * [Mass spectroscopy (MS)](#MS)
