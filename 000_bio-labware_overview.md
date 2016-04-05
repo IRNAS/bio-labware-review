@@ -56,8 +56,12 @@ As there is an overflow of possibilities and devices for laboratory use, it is n
   * [Darkroom and photo-processing](https://github.com/symbiolab/bio-labware/blob/master/060_molecular_biology.md#darkroom)
   * [Thermocycler / PCR machine](https://github.com/symbiolab/bio-labware/blob/master/060_molecular_biology.md#PCR)
   * [Gene gun](https://github.com/symbiolab/bio-labware/blob/master/060_molecular_biology.md#gene-gun)
-- [Cell culture](#Cell-culture)
-- [Organic 3D printing](#Organic-3D-printing)
+- [Cell culture](https://github.com/symbiolab/bio-labware/blob/master/070_cell_culture.md)
+  * [Warm water bath](https://github.com/symbiolab/bio-labware/blob/master/070_cell_culture.md#warm-water)
+  * [Autoclave (sterilization)](https://github.com/symbiolab/bio-labware/blob/master/070_cell_culture.md#steril)
+  * [Laminar flow hood](https://github.com/symbiolab/bio-labware/blob/master/070_cell_culture.md#lam-flow)
+  * [Incubator](https://github.com/symbiolab/bio-labware/blob/master/070_cell_culture.md#incubator)
+- [3D bio printing](https://github.com/symbiolab/bio-labware/blob/master/080_3d_bioprint.md)
 - [Various methods](#Various-methods)
 
 
