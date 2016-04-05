@@ -6,7 +6,7 @@
 - [Microscopy](https://github.com/symbiolab/bio-labware/blob/master/020_microscopy.md)
 - [Spectroscopy](https://github.com/symbiolab/bio-labware/blob/master/030_spectroscopy.md)
 - [Chromatography (separation)](https://github.com/symbiolab/bio-labware/blob/master/040_chromatography_sep.md)
-- [Chromatography - detection](https://github.com/symbiolab/bio-labware/blob/master/050_chromatography_det.md)
+- [Chromatography (detection)](https://github.com/symbiolab/bio-labware/blob/master/050_chromatography_det.md)
 - [Molecular Biology](#Section-5)
   * [Immunoassay analyzer / plate reader](#ELISA)
   * [Blotting device](#blot)
