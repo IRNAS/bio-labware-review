@@ -61,8 +61,13 @@ As there is an overflow of possibilities and devices for laboratory use, it is n
   * [Autoclave (sterilization)](https://github.com/symbiolab/bio-labware/blob/master/070_cell_culture.md#steril)
   * [Laminar flow hood](https://github.com/symbiolab/bio-labware/blob/master/070_cell_culture.md#lam-flow)
   * [Incubator](https://github.com/symbiolab/bio-labware/blob/master/070_cell_culture.md#incubator)
-- [3D bio printing](https://github.com/symbiolab/bio-labware/blob/master/080_3d_bioprint.md)
-- [Various methods](#Various-methods)
+- [Electrophysiology](https://github.com/symbiolab/bio-labware/blob/master/080_electrophysiology.md)
+  * [simple measurement and control systems](https://github.com/symbiolab/bio-labware/blob/master/080_electrophysiology.md#ephys-electrode)
+  * [Patch clamping](https://github.com/symbiolab/bio-labware/blob/master/080_electrophysiology.md#patch-clamp)
+  * [complex brain enchephalograms and interactivity](https://github.com/symbiolab/bio-labware/blob/master/080_electrophysiology.md#EEG-BCI)
+  * [Magnetic resonance imaging (MRI)](https://github.com/symbiolab/bio-labware/blob/master/080_electrophysiology.md#MRI)
+- [3D Bioprinting](https://github.com/symbiolab/bio-labware/blob/master/090_3d_bioprint.md)
+- [Various methods](https://github.com/symbiolab/bio-labware/blob/master/100_various.md)
 
 
 
