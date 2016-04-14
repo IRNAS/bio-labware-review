@@ -13,8 +13,9 @@
 - [Chromatography (detection)](https://github.com/symbiolab/bio-labware/blob/master/050_chromatography_det.md)
 - [Molecular Biology](https://github.com/symbiolab/bio-labware/blob/master/060_molecular_biology.md)
 - [Cell culture](https://github.com/symbiolab/bio-labware/blob/master/070_cell_culture.md)
-- [3D bio printing](https://github.com/symbiolab/bio-labware/blob/master/080_3d_bioprint.md)
-- [Various methods](#Various-methods)
+- [Electrophysiology](https://github.com/symbiolab/bio-labware/blob/master/080_electrophysiology.md)
+- [3D Bioprinting](https://github.com/symbiolab/bio-labware/blob/master/090_3d_bioprint.md)
+- [Various methods](https://github.com/symbiolab/bio-labware/blob/master/100_various.md)
 
 ###Introduction
 Spectroscopy is the study of material interaction with waves, which produces specific spectra, that can be detected and analyzed. Typically, spectroscopy is associated with the interaction of matter with electromagnetic radiation, which is either absorbed, reflected or emitted and creates a specific pattern in the spectrum. Measuring the resulting wavelengths and intensity, is what we call spectrophotometry. Since the detected beam of radiation usually contains many different wavelenghts, these are often separated before detection, by means of diffraction (gratings), refraction (optical prisms),...
