@@ -13,7 +13,7 @@
 - [Electrophysiology](#ephys)
   * [simple measurement and control systems](#ephys-electrode)
   * [Patch clamping](#patch-clamp)
-  * [complex brain enchephalograms and interactivity](#EEG-BCI)
+  * [Electroenchephalograms (EEGs) and brain computer interfaces (BCIs)](#EEG-BCI)
   * [Magnetic resonance imaging (MRI)](#MRI)
 - [3D Bioprinting](https://github.com/symbiolab/bio-labware/blob/master/090_3d_bioprint.md)
 - [Various methods](https://github.com/symbiolab/bio-labware/blob/master/100_various.md)
@@ -25,7 +25,7 @@ Electrophysiology is a general term for all methods, that are used for measuring
 
 ###simple measurement and control systems <a id="ephys-electrode"></a>
 
-![EKG](https://en.wikipedia.org/wiki/Electrocardiography#/media/File:12leadECG.jpg)
+![EKG](https://upload.wikimedia.org/wikipedia/commons/b/bd/12leadECG.jpg)
 
 Source: By MoodyGroove - 2007-01-24 Public Domain, https://commons.wikimedia.org/w/index.php?curid=5266589
 
@@ -84,7 +84,7 @@ The requirements for patch-clamp systems are bound by the criteria described abo
 ---
 
 
-###complex brain enchephalograms (EEGs) and interactivity with brain computer interfaces (BCIs)<a id="EEG-BCI"></a>
+###Electroenchephalograms (EEGs) and brain computer interfaces (BCIs)<a id="EEG-BCI"></a>
 
 ![cognigame](https://www.festo.com/group/de/repo/assets/00361-cognigame-1532x900px.jpg)
 
