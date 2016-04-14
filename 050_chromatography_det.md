@@ -15,8 +15,9 @@
   * [Flame ionization detection (FID)](#FID)
 - [Molecular Biology](https://github.com/symbiolab/bio-labware/blob/master/060_molecular_biology.md)
 - [Cell culture](https://github.com/symbiolab/bio-labware/blob/master/070_cell_culture.md)
-- [3D bio printing](https://github.com/symbiolab/bio-labware/blob/master/080_3d_bioprint.md)
-- [Various methods](#Section-9)
+- [Electrophysiology](https://github.com/symbiolab/bio-labware/blob/master/080_electrophysiology.md)
+- [3D Bioprinting](https://github.com/symbiolab/bio-labware/blob/master/090_3d_bioprint.md)
+- [Various methods](https://github.com/symbiolab/bio-labware/blob/master/100_various.md)
 
 
 Sometimes substances, which were separated by chromatography, are already observable/identifiable (for example by color), which makes them relatively simple to process and analyze further. More often than not this is, however, not the case.
