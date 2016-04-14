@@ -14,8 +14,9 @@
   * [Thermocycler / PCR machine](#PCR)
   * [Gene gun](#gene-gun)
 - [Cell culture](https://github.com/symbiolab/bio-labware/blob/master/070_cell_culture.md)
-- [3D bio printing](https://github.com/symbiolab/bio-labware/blob/master/080_3d_bioprint.md)
-- [Various methods](#Section-9)
+- [Electrophysiology](https://github.com/symbiolab/bio-labware/blob/master/080_electrophysiology.md)
+- [3D Bioprinting](https://github.com/symbiolab/bio-labware/blob/master/090_3d_bioprint.md)
+- [Various methods](https://github.com/symbiolab/bio-labware/blob/master/100_various.md)
 
 
 To understand how life works, one has to study all it's aspects and one of the crucial approaches in this regard is what we call molecular Biology. Its focus lies on the investigation of biological molecules, especially genes and proteins and the correlation between their structure, functions and interactions.
