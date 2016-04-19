@@ -1,11 +1,11 @@
 ##Chromatography (detection) <a id="chrom-det"></a>
 
 ###Table of contents
-- [Overview](https://github.com/symbiolab/bio-labware/blob/master/000_bio-labware_overview.md)
-- [General/wet preparation equipment](https://github.com/symbiolab/bio-labware/blob/master/010_general_preparation.md)
-- [Microscopy](https://github.com/symbiolab/bio-labware/blob/master/020_microscopy.md)
-- [Spectroscopy](https://github.com/symbiolab/bio-labware/blob/master/030_spectroscopy.md)
-- [Chromatography (separation)](https://github.com/symbiolab/bio-labware/blob/master/040_chromatography_sep.md)
+- [Overview](000_bio-labware_overview.md)
+- [General/wet preparation equipment](010_general_preparation.md)
+- [Microscopy](020_microscopy.md)
+- [Spectroscopy](030_spectroscopy.md)
+- [Chromatography (separation)](040_chromatography_sep.md)
 - [Chromatography (detection)](#chrom-det)
   * [UV-Vis and fluorescence detection](#uv-vis-fluo)
   * [Refractive Index detection (RI)](#RI)
@@ -13,11 +13,11 @@
   * [Evaporative light scattering detection (ELSD)](#ELSD)
   * [Electrochemical detection](#ED)
   * [Flame ionization detection (FID)](#FID)
-- [Molecular Biology](https://github.com/symbiolab/bio-labware/blob/master/060_molecular_biology.md)
-- [Cell culture](https://github.com/symbiolab/bio-labware/blob/master/070_cell_culture.md)
-- [Electrophysiology](https://github.com/symbiolab/bio-labware/blob/master/080_electrophysiology.md)
-- [3D Bioprinting](https://github.com/symbiolab/bio-labware/blob/master/090_3d_bioprint.md)
-- [Various methods](https://github.com/symbiolab/bio-labware/blob/master/100_various.md)
+- [Molecular Biology](060_molecular_biology.md)
+- [Cell culture](070_cell_culture.md)
+- [Electrophysiology](080_electrophysiology.md)
+- [3D Bioprinting](090_3d_bioprint.md)
+- [Various methods](100_various.md)
 
 
 Sometimes substances, which were separated by chromatography, are already observable/identifiable (for example by color), which makes them relatively simple to process and analyze further. More often than not this is, however, not the case.
@@ -33,7 +33,7 @@ Therefore, a proper form of detection is required. Many techniques have been dev
 Source: http://www.chromatographyonline.com/lcgc-blog-so-just-how-well-set-your-uv-detector
 
 ####1. Background
-UV-Vis or fluorescence spectroscopy, already described in a [previous chapter](https://github.com/symbiolab/bio-labware/blob/master/030_spectroscopy.md), is with its broad applicability and non-destructive nature a great resource for detection. It is therefore also used for different forms chromatography, from high performance liquid chromatography, to gel electrophoresis. As usually a specific type of compound is the point of interest, the lightsource is set to a fixed wavelength, for which either absorption or fluorescence is measured. In liquid chromatography sistems, which use columns and a steady flow of mobile phase, basically any UV-Vis or fluorescence spectroscopy system can be used, however, if the samples are to be further analyzed, the spectrometer should be synched with the rest of the system, to enable precise fraction collection.
+UV-Vis or fluorescence spectroscopy, already described in a [previous chapter](030_spectroscopy.md), is with its broad applicability and non-destructive nature a great resource for detection. It is therefore also used for different forms chromatography, from high performance liquid chromatography, to gel electrophoresis. As usually a specific type of compound is the point of interest, the lightsource is set to a fixed wavelength, for which either absorption or fluorescence is measured. In liquid chromatography sistems, which use columns and a steady flow of mobile phase, basically any UV-Vis or fluorescence spectroscopy system can be used, however, if the samples are to be further analyzed, the spectrometer should be synched with the rest of the system, to enable precise fraction collection.
 In gel electrophoresis, especially DNA/RNA analysis, the samples are visualized with so called gel-documentation devices, which usually excite a fluorescent glow of DNA fragments, which were stained beforehand. Traditionally the staining was performed using ethidium bromide, which is very toxic and is nowadays being replaced by other stains, such as sybr-green, crystal violet, etc. The gel documentations themselves are typically composed of a flat transparent surface, an underlying light source, a top filter for UV light and a form of sample recording (eg digital camera). Protein gels (eg SDS-PAGE) are normally stained with coomassie's blue staining (which makes all proteins visible) or are transferred to a membrane (often nitrocellulose) and further processed by means of immunohistochemistry, which will be discussed in another chapter.
 
 Keywords: ultra violet, UV, visible, light, fluorescence, detection, gel, documentation
@@ -42,7 +42,7 @@ Keywords: ultra violet, UV, visible, light, fluorescence, detection, gel, docume
 Commercial HPLC detectors with UV-Vis or fluorescence capabilities, usually cost a few thousand € and can only be used for the purpose of analyzing a samples, which enter and leave the detector through a narrow tube. Gel documentations are typically in the few hundred € range, but can also cost a few thousand €, if they have "fancy" capabilities, such as wifi control, etc.
 
 ####3. Available DIY resources
-DIY spectrometers in general, were already covered in the [spectroscopy chapter](https://github.com/symbiolab/bio-labware/blob/master/030_spectroscopy.md). In principle, LC functionality would be easily achieved with standard devices, with the addition of a simple cell with an integrated tube, which is connected to the pumping system.
+DIY spectrometers in general, were already covered in the [spectroscopy chapter](030_spectroscopy.md). In principle, LC functionality would be easily achieved with standard devices, with the addition of a simple cell with an integrated tube, which is connected to the pumping system.
 For gel documentations, there quite a few DIY designs, [example 1](http://bitesizebio.com/26/low-cost-dna-gel-photography/), [example 2](http://blog.genefoo.com/), [example 3](http://www.huettlab.co.uk/blog/2011/12/16/cheap-led-gel-doc-using-a-webcam-updated.html), [example 3](http://www.labtimes.org/labtimes/issues/lt2011/lt02/lt_2011_02_64_65.pdf) and even "off-the-shelf" finished components and kits, such as provided bi [iorodeo](http://iorodeo.com/collections).
 
 ####4. Is DIY good enough and reasonable?
