@@ -2,12 +2,12 @@
 
 ###Table of contents
 
-- [Overview](https://github.com/symbiolab/bio-labware/blob/master/000_bio-labware_overview.md)
-- [Wet preparation equipment](https://github.com/symbiolab/bio-labware/blob/master/010_general_preparation.md)
-- [Microscopy](https://github.com/symbiolab/bio-labware/blob/master/020_microscopy.md)
-- [Spectroscopy](https://github.com/symbiolab/bio-labware/blob/master/030_spectroscopy.md)
-- [Chromatography (Separation)](https://github.com/symbiolab/bio-labware/blob/master/040_chromatography_sep.md)
-- [Chromatography (detection)](https://github.com/symbiolab/bio-labware/blob/master/050_chromatography_det.md)
+- [Overview](000_bio-labware_overview.md)
+- [Wet preparation equipment](010_general_preparation.md)
+- [Microscopy](020_microscopy.md)
+- [Spectroscopy](030_spectroscopy.md)
+- [Chromatography (Separation)](040_chromatography_sep.md)
+- [Chromatography (detection)](050_chromatography_det.md)
 - [Molecular Biology](060_molecular_biology.md)
 - [Cell culture](070_cell_culture.md)
 - [Electrophysiology](080_electrophysiology.md)
