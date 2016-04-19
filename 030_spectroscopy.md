@@ -30,6 +30,8 @@ Spectroscopy is a very broad field of study and includes many disciplines and te
 ####1. Background
 A very basic form of spectroscopy, optical density meters measure the light transmittance/absorbance of a sample. Absorbance at 600nm through liquid cell cultures is used to estimate the growth phase of a cell culture. This is extremely useful for cell culture and transformation protocols where using cells in the log growth phase will give better results. Standard 10mm optical cuvettes are used to contain the sample during measurement. 
 
+Keywords: optical density, OD600, turbidity, absorbance, 600nm, cell density
+
 ####2. Commercial variants
 UV-vis spectroscopes (see [below](#UV-Vis-spect)) are capable of making cell culture density measurements and are often used for this. Cheaper devices that only measure at the 600nm wavelength (only useful for measuring cell culture density), are available and cost around €800.
 
