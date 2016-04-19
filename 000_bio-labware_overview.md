@@ -28,6 +28,7 @@ As there is an overflow of possibilities and devices for laboratory use, it is n
   * [Stereo microscope](020_microscopy.md#Stereo-microscope)
   * [Classical optical microscope](020_microscopy.md#Optical-microscope)
   * [Fluorescence microscope](020_microscopy.md#Fluorescence-microscope)
+  * [Two-photon laser microscope (link)](https://openwiki.janelia.org/wiki/display/shareddesigns/Shared+Two-photon+Microscope+Designs)
   * [Microtome](020_microscopy.md#Microtome)
   * [Transmission electron microscope](020_microscopy.md#TEM)
   * [Scanning electron microscope](020_microscopy.md#SEM)
