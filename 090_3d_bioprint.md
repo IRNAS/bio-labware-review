@@ -20,10 +20,10 @@
 
 Bioprinting is a combination of cell-culturing and digital manufacturing. It begins with developing cellular building blocks — also called bio-ink — that will later form the target tissue. This is then applied to a surface layer by layer as in classical [3D printing](http://explainingthefuture.com/3dprinting.html), to create the desired form. Finally, the model is cultivated in conditions that allow the cells to flourish, form connections and produce the final tissue. Typically material is applied in two steps: the first bioprinter output are the cells which are put in place in very thin layers. As the second output the bioprinters fabricate a temporary, dissolvable, gel-like support structure.
 
-#####1.2 Technology
+#####1.1 Technology
 The fundamental extrusion technology used in bioprinters is most often syringe based extrusion. Photocuring, blue light technology and piezoelectric nanoliter pipetting are also technologies that often supplement or replace syringe based extrusion. 
 
-#####1.3 Materials
+#####1.2 Materials
 Materials used in such technology are hydrogels, silicone, hydroxyapatite, titanium, chitosan, cellular hydrogels, bioink, osteoink, organioids, agarose, collagen, polyethylene glycol, gelatin, alginates etc.
 
 ####2. Commercial variants
