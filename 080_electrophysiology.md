@@ -2,24 +2,24 @@
 
 ###Table of contents
 
-- [Overview](https://github.com/symbiolab/bio-labware/blob/master/000_bio-labware_overview.md)
-- [Wet preparation equipment](https://github.com/symbiolab/bio-labware/blob/master/010_general_preparation.md)
-- [Microscopy](https://github.com/symbiolab/bio-labware/blob/master/020_microscopy.md)
-- [Spectroscopy](https://github.com/symbiolab/bio-labware/blob/master/030_spectroscopy.md)
-- [Chromatography (Separation)](https://github.com/symbiolab/bio-labware/blob/master/040_chromatography_sep.md)
-- [Chromatography (detection)](https://github.com/symbiolab/bio-labware/blob/master/050_chromatography_det.md)
-- [Molecular Biology](https://github.com/symbiolab/bio-labware/blob/master/060_molecular_biology.md)
-- [Cell culture](https://github.com/symbiolab/bio-labware/blob/master/070_cell_culture.md)
+- [Overview](000_bio-labware_overview.md)
+- [Wet preparation equipment](010_general_preparation.md)
+- [Microscopy](020_microscopy.md)
+- [Spectroscopy](030_spectroscopy.md)
+- [Chromatography (Separation)](040_chromatography_sep.md)
+- [Chromatography (detection)](050_chromatography_det.md)
+- [Molecular Biology](060_molecular_biology.md)
+- [Cell culture](070_cell_culture.md)
 - [Electrophysiology](#ephys)
   * [simple measurement and control systems](#ephys-electrode)
   * [Patch clamping](#patch-clamp)
   * [Electroenchephalograms (EEGs) and brain computer interfaces (BCIs)](#EEG-BCI)
   * [Magnetic resonance imaging (MRI)](#MRI)
-- [3D Bioprinting](https://github.com/symbiolab/bio-labware/blob/master/090_3d_bioprint.md)
-- [Various methods](https://github.com/symbiolab/bio-labware/blob/master/100_various.md)
+- [3D Bioprinting](090_3d_bioprint.md)
+- [Various methods](100_various.md)
 
 
-Electrophysiology is a general term for all methods, that are used for measuring electrical properties of cells, such as conductivity and the reaction and translation of electrical impulses. In recent years, with the rapid growth of Neuroscience, it is often associated with the measurement of neurons (nerve cells), their parts (such as ion channels) or larger neuronal systems. Electrophysiology more often than not takes place on animals or their (still functional) tissues. Such experimentation therefore always has to be considered from an ethical perspective, as already described in the chapter on [Cell culture](https://github.com/symbiolab/bio-labware/blob/master/070_cell_culture.md).
+Electrophysiology is a general term for all methods, that are used for measuring electrical properties of cells, such as conductivity and the reaction and translation of electrical impulses. In recent years, with the rapid growth of Neuroscience, it is often associated with the measurement of neurons (nerve cells), their parts (such as ion channels) or larger neuronal systems. Electrophysiology more often than not takes place on animals or their (still functional) tissues. Such experimentation therefore always has to be considered from an ethical perspective, as already described in the chapter on [Cell culture](070_cell_culture.md).
 
 ---
 
