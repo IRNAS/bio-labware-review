@@ -1,20 +1,20 @@
 ##Chromatography (separation) <a id="chrom-sep"></a>
 
 ###Table of contents
-- [Overview](https://github.com/symbiolab/bio-labware/blob/master/000_bio-labware_overview.md)
-- [General/wet preparation equipment](https://github.com/symbiolab/bio-labware/blob/master/010_general_preparation.md)
-- [Microscopy](https://github.com/symbiolab/bio-labware/blob/master/020_microscopy.md)
-- [Spectroscopy](https://github.com/symbiolab/bio-labware/blob/master/030_spectroscopy.md)
+- [Overview](000_bio-labware_overview.md)
+- [General/wet preparation equipment](010_general_preparation.md)
+- [Microscopy](020_microscopy.md)
+- [Spectroscopy](030_spectroscopy.md)
 - [Chromatography (separation)](#chrom-sep)
   * [High performace liquid chromatography (HPLC)](#HPLC)
   * [Gas chromatography (GC)](#GC)
   * [Gel electrophoresis](#Gel-electrophoresis)
-- [Chromatography (detection)](https://github.com/symbiolab/bio-labware/blob/master/050_chromatography_det.md)
-- [Molecular Biology](https://github.com/symbiolab/bio-labware/blob/master/060_molecular_biology.md)
-- [Cell culture](https://github.com/symbiolab/bio-labware/blob/master/070_cell_culture.md)
-- [Electrophysiology](https://github.com/symbiolab/bio-labware/blob/master/080_electrophysiology.md)
-- [3D Bioprinting](https://github.com/symbiolab/bio-labware/blob/master/090_3d_bioprint.md)
-- [Various methods](https://github.com/symbiolab/bio-labware/blob/master/100_various.md)
+- [Chromatography (detection)](050_chromatography_det.md)
+- [Molecular Biology](060_molecular_biology.md)
+- [Cell culture](070_cell_culture.md)
+- [Electrophysiology](080_electrophysiology.md)
+- [3D Bioprinting](090_3d_bioprint.md)
+- [Various methods](100_various.md)
 
 Chromatography is in general referred to as the set of techniques, used for the separation of different substances, based on their physical and chemical properties, such as size, polarity, charge, etc. Typically, this is achieved by placing a sample on a stationary solid phase, which is then rinsed by a mobile fluid phase, which the samples "ingredients" then follow. The flow rate of each component (and thereby separation) depends on its affinity for either phase and some other factors, such as porosity of the solid phase, flow rate of the liquid phase, etc. There are different techniques, which are categorized in many ways, depending on the form and shape of the solid phase (planar/column chromatography), the physical state of the mobile phase (liquid, gas), the separation mechanism, etc. Afterwards the sample is dried and visualized if neccessary.
 
