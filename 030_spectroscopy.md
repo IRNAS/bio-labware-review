@@ -5,6 +5,7 @@
 - [General/wet preparation equipment](https://github.com/symbiolab/bio-labware/blob/master/010_general_preparation.md)
 - [Microscopy](https://github.com/symbiolab/bio-labware/blob/master/020_microscopy.md)
 - [Spectroscopy](https://github.com/symbiolab/bio-labware/blob/master/030_spectroscopy.md)
+  * [Cell optical density meter](https://github.com/symbiolab/bio-labware/blob/master/030_spectroscopy.md#OD600)
   * [UV-Vis spectroscope](https://github.com/symbiolab/bio-labware/blob/master/030_spectroscopy.md#UV-Vis-spect)
   * [IR spectroscope](https://github.com/symbiolab/bio-labware/blob/master/030_spectroscopy.md#IR-spect)
   * [Fluorescence spectroscope](https://github.com/symbiolab/bio-labware/blob/master/030_spectroscopy.md#Fluo-spect)
@@ -21,6 +22,29 @@
 Spectroscopy is the study of material interaction with waves, which produces specific spectra, that can be detected and analyzed. Typically, spectroscopy is associated with the interaction of matter with electromagnetic radiation, which is either absorbed, reflected or emitted and creates a specific pattern in the spectrum. Measuring the resulting wavelengths and intensity, is what we call spectrophotometry. Since the detected beam of radiation usually contains many different wavelenghts, these are often separated before detection, by means of diffraction (gratings), refraction (optical prisms),...
 
 Spectroscopy is a very broad field of study and includes many disciplines and techniques, which can be classified by either the type of energy, type of interaction, materials, etc. In biology itself, many techniques are used, we will, however, only be discussing a few most commonly used ones.
+
+---
+
+###Cell optical density meter (OD600 meter)<a id="OD600"></a>
+
+####1. Background
+A very basic form of spectroscopy, optical density meters measure the light transmittance/absorbance of a sample. Absorbance at 600nm through liquid cell cultures is used to estimate the growth phase of a cell culture. This is extremely useful for cell culture and transformation protocols where using cells in the log growth phase will give better results. Standard 10mm optical cuvettes are used to contain the sample during measurement. 
+
+####2. Commercial variants
+UV-vis spectroscopes (see [below](#UV-Vis-spect)) are capable of making cell culture density measurements and are often used for this. Cheaper devices that only measure at the 600nm wavelength (only useful for measuring cell culture density), are available and cost around €800.
+
+####3. Available DIY resources
+Many of the [DIY UV-vis spectroscopes listed below](#UV-Vis-spect) can be adapted to be capable of reliably measuring 600nm absorbance of cell cultures in 10mm cuvettes, however the [OD/F device](http://2014.igem.org/Team:Aachen/OD/F_device) and [DIλ](http://www.openscienceschool.com/di-lambda/) are built specifically for measuring cell densities and can be built for around €40.
+
+An extremely cheap alternative is to make up a set of [McFarland Turbidity Standards](https://en.wikipedia.org/wiki/McFarland_standards) using barium chloride and sulphuric acid. These can be visually compared to the sample cell suspension to roughly estimate its optical density and thus rough growth phase of the culture. 
+
+####4. Is DIY good enough and reasonable?
+The McFarland Turbidity Standards are extremely cheap and easy to make. Although the estimates given by using this method are extremely rough, it is still much better than using timing alone to guess cell density for protocols which require specific growth phase cell. This is recommended for one-offs and DIY labs without any optical density meter or UV-Vis spectroscope.
+
+The affordability and easy construction of reliable and calibratable DIY optical density meters should mean the DIY options are easy for most DIY labs to build and use if they are unable to obtain a commercial unit.
+
+####5. Requirements and plan
+The important part of a cell optical density meter is a secure housing for the cuvette and a calibrated light source which emits close to 600nm. This allows calibration to an absolute optical density scale rather than simply giving relative readings. The DIY options listed have been tested and successfully calibrated to give reliable optical density readings in their documentation. Adaptation of existing DIY UV-Vis spectroscopes should be very possible, but proper calibration will be a crucial part of this. 
 
 ---
 
