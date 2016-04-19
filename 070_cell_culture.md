@@ -2,21 +2,21 @@
 
 ###Table of contents
 
-- [Overview](https://github.com/symbiolab/bio-labware/blob/master/000_bio-labware_overview.md)
-- [Wet preparation equipment](https://github.com/symbiolab/bio-labware/blob/master/010_general_preparation.md)
-- [Microscopy](https://github.com/symbiolab/bio-labware/blob/master/020_microscopy.md)
-- [Spectroscopy](https://github.com/symbiolab/bio-labware/blob/master/030_spectroscopy.md)
-- [Chromatography (Separation)](https://github.com/symbiolab/bio-labware/blob/master/040_chromatography_sep.md)
-- [Chromatography (detection)](https://github.com/symbiolab/bio-labware/blob/master/050_chromatography_det.md)
-- [Molecular Biology](https://github.com/symbiolab/bio-labware/blob/master/060_molecular_biology.md)
+- [Overview](000_bio-labware_overview.md)
+- [Wet preparation equipment](010_general_preparation.md)
+- [Microscopy](020_microscopy.md)
+- [Spectroscopy](030_spectroscopy.md)
+- [Chromatography (Separation)](040_chromatography_sep.md)
+- [Chromatography (detection)](050_chromatography_det.md)
+- [Molecular Biology](060_molecular_biology.md)
 - [Cell culture](#Cell-culture)
   * [Warm water bath](#warm-water)
   * [Autoclave (sterilization)](#steril)
   * [Laminar flow hood](#lam-flow)
   * [Incubator](#incubator)
-- [Electrophysiology](https://github.com/symbiolab/bio-labware/blob/master/080_electrophysiology.md)
-- [3D Bioprinting](https://github.com/symbiolab/bio-labware/blob/master/090_3d_bioprint.md)
-- [Various methods](https://github.com/symbiolab/bio-labware/blob/master/100_various.md)
+- [Electrophysiology](080_electrophysiology.md)
+- [3D Bioprinting](090_3d_bioprint.md)
+- [Various methods](100_various.md)
 
 
 Biological research sooner or later leads to investigations on "living stuff". This can mean pure observation in nature, whole organism (multicellular) experiments in the lab, but with the development of molecular and growing techniques, also cell and tissue cultivation. Experimentation, especially on animals, where pain or suffering can be introduced, goes hand in hand with ethics and morality and it is essential to minimize the impact made on the experimental specimen. This is often regarded to as the rule of three Rs - reduction, replacement and refinement. Cell and tissue culture is an essential tool, not only to achieve this goal, but also to make experiments which would otherwise be impossible. Unless some very specific cell type is to be investigated, the cells typically do not require to be extracted separately, since standardized cell lines are already available all over the globe. To work with or modify these, however, a laboratory requires special registration and allowances.
