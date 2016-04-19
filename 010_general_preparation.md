@@ -2,8 +2,8 @@
 
 ###Table of contents
 
-- [Overview](https://github.com/symbiolab/bio-labware/blob/master/000_bio-labware_overview.md)
-- [General/wet preparation equipment](https://github.com/symbiolab/bio-labware/blob/master/010_general_preparation.md)
+- [Overview](000_bio-labware_overview.md)
+- [General/wet preparation equipment](010_general_preparation.md)
   * [Fine Weighing Scale/ Microbalance](#Microbalance)
   * [Magnetic stirrer](#Magnetic-stirrer)
   * [Rotation wheel / tube rotator](#rotation-wheel)
@@ -17,15 +17,15 @@
   * [Heating plate / slide warmer](#heat-plate)
   * [Block heater (dry)](#heat-block)
   * [Fume hood](#fume-hood)
-- [Microscopy](https://github.com/symbiolab/bio-labware/blob/master/020_microscopy.md)
-- [Spectroscopy](https://github.com/symbiolab/bio-labware/blob/master/030_spectroscopy.md)
-- [Chromatography (separation)](https://github.com/symbiolab/bio-labware/blob/master/040_chromatography_sep.md)
-- [Chromatography (detection)](https://github.com/symbiolab/bio-labware/blob/master/050_chromatography_det.md)
-- [Molecular Biology](https://github.com/symbiolab/bio-labware/blob/master/060_molecular_biology.md)
-- [Cell culture](https://github.com/symbiolab/bio-labware/blob/master/070_cell_culture.md)
-- [Electrophysiology](https://github.com/symbiolab/bio-labware/blob/master/080_electrophysiology.md)
-- [3D Bioprinting](https://github.com/symbiolab/bio-labware/blob/master/090_3d_bioprint.md)
-- [Various methods](https://github.com/symbiolab/bio-labware/blob/master/100_various.md)
+- [Microscopy](020_microscopy.md)
+- [Spectroscopy](030_spectroscopy.md)
+- [Chromatography (separation)](040_chromatography_sep.md)
+- [Chromatography (detection)](050_chromatography_det.md)
+- [Molecular Biology](060_molecular_biology.md)
+- [Cell culture](070_cell_culture.md)
+- [Electrophysiology](080_electrophysiology.md)
+- [3D Bioprinting](090_3d_bioprint.md)
+- [Various methods](100_various.md)
 
 
 
@@ -321,7 +321,7 @@ Keywords: block, heater, dry, bath
 New commercial block heaters cost around 1000€. While used ones are available for significantly less, they typically still come at 200€ or more.
 
 ####3. Available DIY resources
-There are no DIY designs for block heaters by them selves, which is surprising, since they are actually used in [thermocyclers / PCR machines](https://github.com/symbiolab/bio-labware/blob/master/060_molecular_biology.md#PCR), for which quite a few models are available. To read more, check out the [Molecular Biology](https://github.com/symbiolab/bio-labware/blob/master/060_molecular_biology.md) chapter.
+There are no DIY designs for block heaters by them selves, which is surprising, since they are actually used in [thermocyclers / PCR machines](060_molecular_biology.md#PCR), for which quite a few models are available. To read more, check out the [Molecular Biology](060_molecular_biology.md) chapter.
 
 ####4. Is DIY good enough and reasonable?
 Considering the derived modules from the DIY thermocyclers, the DIY designs are both good enough and reasonable.
