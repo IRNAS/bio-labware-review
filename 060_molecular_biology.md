@@ -1,22 +1,22 @@
 ##Molecular Biology
 
 ###Table of contents
-- [Overview](https://github.com/symbiolab/bio-labware/blob/master/000_bio-labware_overview.md)
-- [General/wet preparation equipment](https://github.com/symbiolab/bio-labware/blob/master/010_general_preparation.md)
-- [Microscopy](https://github.com/symbiolab/bio-labware/blob/master/020_microscopy.md)
-- [Spectroscopy](https://github.com/symbiolab/bio-labware/blob/master/030_spectroscopy.md)
-- [Chromatography (separation)](https://github.com/symbiolab/bio-labware/blob/master/040_chromatography_sep.md)
-- [Chromatography (detection)](https://github.com/symbiolab/bio-labware/blob/master/050_chromatography_det.md)
+- [Overview](000_bio-labware_overview.md)
+- [General/wet preparation equipment](010_general_preparation.md)
+- [Microscopy](020_microscopy.md)
+- [Spectroscopy](030_spectroscopy.md)
+- [Chromatography (separation)](040_chromatography_sep.md)
+- [Chromatography (detection)](050_chromatography_det.md)
 - [Molecular Biology](#Section-5)
   * [Immunoassay analyzer / plate reader](#ELISA)
   * [Blotting device](#blot)
   * [Darkroom and photo-processing](#darkroom)
   * [Thermocycler / PCR machine](#PCR)
   * [Gene gun](#gene-gun)
-- [Cell culture](https://github.com/symbiolab/bio-labware/blob/master/070_cell_culture.md)
-- [Electrophysiology](https://github.com/symbiolab/bio-labware/blob/master/080_electrophysiology.md)
-- [3D Bioprinting](https://github.com/symbiolab/bio-labware/blob/master/090_3d_bioprint.md)
-- [Various methods](https://github.com/symbiolab/bio-labware/blob/master/100_various.md)
+- [Cell culture](070_cell_culture.md)
+- [Electrophysiology](080_electrophysiology.md)
+- [3D Bioprinting](090_3d_bioprint.md)
+- [Various methods](100_various.md)
 
 
 To understand how life works, one has to study all it's aspects and one of the crucial approaches in this regard is what we call molecular Biology. Its focus lies on the investigation of biological molecules, especially genes and proteins and the correlation between their structure, functions and interactions.
@@ -71,7 +71,7 @@ Which one to use, seems to be a thing of personal preference, more than a perfor
 Keywords: blotting, western, southern, electroblotting, membrane, semi-dry, tank, wet
 
 ####2. Commercial variants
-Blotters cost a few hundred € to a little over a 1000€, used devices are available for around 300€, depending on the device conditions. A semi-dry or wet blotter is, however, not sufficient to run a sample transfer by itself. Just as the electrophoresis chamber, it also requires a power supply, as discussed in the [chromatography chapter](https://github.com/symbiolab/bio-labware/blob/master/040_chromatography_sep.md#Gel-electrophoresis).
+Blotters cost a few hundred € to a little over a 1000€, used devices are available for around 300€, depending on the device conditions. A semi-dry or wet blotter is, however, not sufficient to run a sample transfer by itself. Just as the electrophoresis chamber, it also requires a power supply, as discussed in the [chromatography chapter](040_chromatography_sep.md#Gel-electrophoresis).
 
 ####3. Available DIY resources
 There really aren't any well documented DIY blotters on the internet, despite the basic construction is nothing else than a large capacitor, that is connected to a power supply. As discussed in previous chapters, the DIY molecular bioresearch community seems to focus more on DNA analysis, compared to that of proteins. Interesting development does, however, seem to be appearing in the development of novel protein analysis systems on a research level, as described [here](http://www.asbmb.org/asbmbtoday/asbmbtoday_article_print.aspx?id=15430).
