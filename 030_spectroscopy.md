@@ -1,22 +1,22 @@
 ##Spectroscopy <a id="Spectroscopy"></a>
 
 ###Table of contents
-- [Overview](https://github.com/symbiolab/bio-labware/blob/master/000_bio-labware_overview.md)
-- [General/wet preparation equipment](https://github.com/symbiolab/bio-labware/blob/master/010_general_preparation.md)
-- [Microscopy](https://github.com/symbiolab/bio-labware/blob/master/020_microscopy.md)
-- [Spectroscopy](https://github.com/symbiolab/bio-labware/blob/master/030_spectroscopy.md)
-  * [Cell optical density meter](https://github.com/symbiolab/bio-labware/blob/master/030_spectroscopy.md#OD600)
-  * [UV-Vis spectroscope](https://github.com/symbiolab/bio-labware/blob/master/030_spectroscopy.md#UV-Vis-spect)
-  * [IR spectroscope](https://github.com/symbiolab/bio-labware/blob/master/030_spectroscopy.md#IR-spect)
-  * [Fluorescence spectroscope](https://github.com/symbiolab/bio-labware/blob/master/030_spectroscopy.md#Fluo-spect)
-  * [Raman spectroscope](https://github.com/symbiolab/bio-labware/blob/master/030_spectroscopy.md#raman)
-- [Chromatography (separation)](https://github.com/symbiolab/bio-labware/blob/master/040_chromatography_sep.md)
-- [Chromatography (detection)](https://github.com/symbiolab/bio-labware/blob/master/050_chromatography_det.md)
-- [Molecular Biology](https://github.com/symbiolab/bio-labware/blob/master/060_molecular_biology.md)
-- [Cell culture](https://github.com/symbiolab/bio-labware/blob/master/070_cell_culture.md)
-- [Electrophysiology](https://github.com/symbiolab/bio-labware/blob/master/080_electrophysiology.md)
-- [3D Bioprinting](https://github.com/symbiolab/bio-labware/blob/master/090_3d_bioprint.md)
-- [Various methods](https://github.com/symbiolab/bio-labware/blob/master/100_various.md)
+- [Overview](000_bio-labware_overview.md)
+- [General/wet preparation equipment](010_general_preparation.md)
+- [Microscopy](020_microscopy.md)
+- [Spectroscopy](030_spectroscopy.md)
+  * [Cell optical density meter](030_spectroscopy.md#OD600)
+  * [UV-Vis spectroscope](030_spectroscopy.md#UV-Vis-spect)
+  * [IR spectroscope](030_spectroscopy.md#IR-spect)
+  * [Fluorescence spectroscope](030_spectroscopy.md#Fluo-spect)
+  * [Raman spectroscope](030_spectroscopy.md#raman)
+- [Chromatography (separation)](040_chromatography_sep.md)
+- [Chromatography (detection)](050_chromatography_det.md)
+- [Molecular Biology](060_molecular_biology.md)
+- [Cell culture](070_cell_culture.md)
+- [Electrophysiology](080_electrophysiology.md)
+- [3D Bioprinting](090_3d_bioprint.md)
+- [Various methods](100_various.md)
 
 ###Introduction
 Spectroscopy is the study of material interaction with waves, which produces specific spectra, that can be detected and analyzed. Typically, spectroscopy is associated with the interaction of matter with electromagnetic radiation, which is either absorbed, reflected or emitted and creates a specific pattern in the spectrum. Measuring the resulting wavelengths and intensity, is what we call spectrophotometry. Since the detected beam of radiation usually contains many different wavelenghts, these are often separated before detection, by means of diffraction (gratings), refraction (optical prisms),...
