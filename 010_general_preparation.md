@@ -122,17 +122,21 @@ The most important thing to be noted when working with centrifuges, is to make s
 Keywords: centrifuge, micro, tubes
 
 ####2. Commercial variants
-There are two basic types of commercial centrifuges, which are used either for epis or for falcons. The simplest types of both sizes begin at approximately 150€ and go into several hundreds. More sophisticated models also allow temperature adjustments (cooling) for delicate samples. Also, some integrate a vacuuming function, for rapid concentrating/drying of samples during centrifugation. These are substantially more expensive, costing several thousand euros.
+There are two basic types of commercial centrifuges, which are used either for epis or for falcons. A basic 4000rpm centrifuge for epis (microcentrifuge) can be bought for around €50. The simplest models capable of spinning 15ml and 50ml falcons begin at approximately €150 and go into several hundreds. More sophisticated models also allow temperature adjustments (cooling) for delicate samples. Also, some integrate a vacuuming function, for rapid concentrating/drying of samples during centrifugation. These are substantially more expensive, costing several thousand euros.
 
 ####3. Available DIY resources
-There are several designs available for DIY variants, using [PC fans](https://www.youtube.com/watch?v=eV-EGpJaOB8), [hard drives](https://www.youtube.com/watch?v=uqa1JNLLB78), [drills](http://www.popsci.com/diy/article/2013-07/how-build-your-own-diy-centrifuge), [blenders](http://citsci.blogspot.si/2009/11/centrifuge-revisited.html)..., however, much refinement is still possible in the design. Possibly the best two variants up to date are the [OpenFuge](http://www.instructables.com/id/OpenFuge/), which however costs about 180€ to make (the control board is readily available [here](https://www.tindie.com/products/CopabX/openfuge-control-board/)) and the [GoGoFuge](https://diybio.org/2012/06/12/gogofuge/), which is an improvement on the drill based dremelfuge.
+There are several designs available for DIY variants, using [PC fans](https://www.youtube.com/watch?v=eV-EGpJaOB8), [hard drives](https://www.youtube.com/watch?v=uqa1JNLLB78), [drills](http://www.popsci.com/diy/article/2013-07/how-build-your-own-diy-centrifuge), [blenders](http://citsci.blogspot.si/2009/11/centrifuge-revisited.html)..., however, much refinement is still possible in the design. Possibly the best two variants up to date are the [OpenFuge](http://www.instructables.com/id/OpenFuge/) (can spin epis at variable speed up to 9000rpm), which however costs about €180 to make (the control board is readily available [here](https://www.tindie.com/products/CopabX/openfuge-control-board/)) and the [GoGoFuge](https://diybio.org/2012/06/12/gogofuge/) (spins epis), which is an improvement on the drill based dremelfuge.
 
 
 ####4. Is DIY good enough and reasonable?
-For simple centrifugation (separating heavy particulate from a solution), precise control is not necessary, for which, a simple drill centrifuge (such as DremelFuge) would suffice. For more advanced purposes, typical for a laboratory, it would be advantageous to have control over the centrifugal force and rotation time. It would also be immensely useful, if one could upgrade the device to a vacuum concentrator without too much effort.
+For simple centrifugation (separating heavy particulate from a solution), precise control is not necessary, for which, a simple drill centrifuge (such as DremelFuge) would suffice. For more advanced purposes, typical for a laboratory, it would be advantageous to have control over the centrifugal force and rotation time, thus a more expensive DIY device or commecial model will often be required. 
+
+There are currently no DIY centrifuges capable of spinning 50ml falcon tubes, so for labs wishing to do large amounts of cell culture (e.g. preparing competent cells for transformation) seeking a 2nd hand or cheap commercial unit capable of this will be necessary. 
+
+As there are so many different DIY models available, we will set out, to test a few of them and plan to make an improved design, that will be cheap and meet the requirements of a wet laboratory. It would also be immensely useful, if one could upgrade DIY centriguges to a vacuum concentrator without too much effort.
 
 ####5. Requirements and plans
-As there are so many different DIY models available, we will set out, to test a few of them and plan to make an improved design, that will be cheap and meet the requirements of a wet laboratory. A laboratory centrifuge should have an adjustable rotation speed (0-7000 rpm) and time (0-60min). It should also be safe and stable.
+A laboratory centrifuge should have an adjustable rotation speed at least (0-7000 rpm) and time (0-60min) and be capable of spinning the size of tubes required for procedures carried out in a particular lab. A shoddy centrifuge is a considerable safety hazard so any centrifuge devices should also be safe and stable.
 
 ---
 
