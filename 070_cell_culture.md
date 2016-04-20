@@ -108,15 +108,17 @@ The function of an incubator seems very straightforward. It typically consists o
 Keywords: incubator, incubation, chamber, cultivation
 
 ####2. Commercial variants
-Incubators come in different froms and sizes and as a consequence - in different prices as well. They range from small egg (bird or reptile) warmers, to professional laboratory devices with an almost sterile environment, precise temperature and gas (CO₂) control etc. The latter kind is usually very expensive, costing several thousand €. Smaller, simple devices are available for a few hundred, or even below 100€ (hobby/terrarist grade).
+Incubators come in different froms and sizes and as a consequence - in different prices as well. They range from small egg (bird or reptile) warmers, to professional laboratory devices with an almost sterile environment, precise temperature, shaking speed, and gas (CO₂) control etc. The latter kind is usually very expensive, costing several thousand €. Smaller, simple devices are available for a few hundred, or even below €100 (hobby/terrarist grade).
 
 ####3. Available DIY resources
-Typically, DIY incubators consist of a styrofoam chamber (with a door), heat source, temperature sensor and a regulation circuit, as shown in [this video](https://www.youtube.com/watch?v=X8hNb7m8tuw). A similar build was made by [Biodesign](http://biodesign.cc/2013/12/25/diy-incubator/), where also a compact temperature controller was developed - [Fermento](https://github.com/BioDesignRealWorld/Fermento). Both of these designs only include a temperature control. A more advanced device was devised at the Pelling Lab, where a [DIY CO₂ incubator](http://www.pellinglab.net/diy/diyco2incubator/) was developed, suitable for Mammalian cells.
+Typically, DIY incubators consist of a styrofoam chamber (with a door), heat source, temperature sensor and a regulation circuit, as shown in [this video](https://www.youtube.com/watch?v=X8hNb7m8tuw). A similar build was made by [Biodesign](http://biodesign.cc/2013/12/25/diy-incubator/), where also a compact temperature controller was developed - [Fermento](https://github.com/BioDesignRealWorld/Fermento). Such designs can be combined with [orbital shakers](010_general_preparation.md#shaker) to create a device capable of incubating cell culture under shaking conditions. For more elaborate culturing protocols, e.g. mammalian cell culture, a more advanced device was devised at the Pelling Lab, where a [DIY CO₂ incubator](http://www.pellinglab.net/diy/diyco2incubator/) was developed.
 
 ####4. Is DIY good enough and reasonable?
-Whether it is worthwhile to build a DIY incubator, very much depends on the characteristics you require. For simple nonsterile incubation at a constant temperature, cheap commercial devices seem a better choice. For sensitive eucaryotic cell line incubation, this is another matter completely! For such research, a DIY design is feasible, if you can achieve the neccessary conditions, e.g. as it was done in the Pelling lab.
+Whether it is worthwhile to build a DIY incubator, very much depends on the characteristics you require. For simple nonsterile incubation at a constant temperature, cheap commercial devices seem a better choice (e.g. large chicken egg incubators can be bought for €70). For sensitive eukaryotic cell line incubation, this is another matter completely! For such research, a DIY design is feasible, if you can achieve the neccessary conditions, e.g. as it was done in the Pelling lab.
 
 ####5. Requirements and plans
-An incubator suitable for eucaryotic cell cultivation requires a chamber that is easily cleanable, with an airtightly sealable door/opening, precise temperature control, that can be adjusted and held constant and CO₂ regulation circuit that can sustain a 5% concentration.
+An incubator for bacterial cell culture has few requirements: ability to set a stable temperature between 25°C-37°C and optionally the incorporation of a variable speed shaking platform to speed up culturing times.
+
+An incubator suitable for eukaryotic cell cultivation requires a chamber that is easily cleanable, with an airtightly sealable door/opening, precise temperature control, that can be adjusted and held constant and CO₂ regulation circuit that can sustain a 5% concentration.
 
 ---
