@@ -53,21 +53,27 @@ Warm water baths need to finely adjust and hold the temperature of the contained
 Source: By William Rafti of the William Rafti Institute, Attribution, https://commons.wikimedia.org/w/index.php?curid=18424292
 
 ####1. Background
-When working with cells, tissues, the handling equipment, as well as the culture media, need to be sterile. There are many types of sterilization, using irradiation (such as UV, X-ray or gamma radiation), chemical agents (NO₂,Ethylene oxide,..), but most common in biological laboratories is sterilization with hot steam by autoclaving, which will be further discussed here.
+When working with cells, tissues, the handling equipment, as well as the culture media, need to be sterile. There are many types of sterilization, using irradiation (such as UV, X-ray or gamma radiation), chemical agents (NO₂,Ethylene oxide,..), but most common in biological laboratories is sterilization with hot steam by autoclaving (121°C in a 100% steam atmosphere at 1.04 bar gauge pressure for 5 minutes). 
+
+Three types of steam sterilisation cycle are commonly required: growth media (and other liquids); waste (e.g. biohazard bags); solid objects (e.g. flasks, bottles, pipette tips, etc). For growth media and liquid sterilisation the liquid itself must reach 121°C. Since trapped air pockets are not a concern, steam can simply be allowed to passively displace the air in the chamber (class N cycle). For waste and solid object sterilisation it is necessary for steam to completely penetrate all areas of the autoclave load. This is often achieved with a pulsed vacuum system (class B cycle) which removes air pockets in a load containing wrapped objects, and objects such as pipette tips which are prone to causing air pockets.
 
 Keywords: autoclave, moist, heat, steam, sterilization
 
 ####2. Commercial variants
-Commercial, high end autoclaves with precise programmable settings (temperature, pressure, humidity) cost a few thousand €, although simple sterilization can be achieved with a simple pressure cooker.
+Commercial autoclaves with large sterilisation chambers precise programmable settings (temperature, pressure, humidity) cost a few thousand €, those additionally capable of class B sterilisation cost even more.
 
 ####3. Available DIY resources
-Despite many DIY Biologists, which require sterilization of their tools, using [pressure cookers](http://preparednessadvice.com/medical/improvised-autoclave-make-one-sterilize-medical-equip/) as an improvized solution, there are a few DIY construction designs. Two of the more advanced (and also not very cheap) can be found [here](http://www.sciencemadness.org/talk/viewthread.php?tid=14652#pid190003) and [here](https://www.shroomery.org/forums/showflat.php/Number/14182642). Due to its large size, the last one is even more expensive than used small commercial ones. This is, however, largely dependent on the needs one has for sterilization.
+The use of [pressure cookers](http://preparednessadvice.com/medical/improvised-autoclave-make-one-sterilize-medical-equip/) is established amongst DIY biologists and works well as a cheap and easy solution for sterilising liquids and growth media. Most pressure cooker designs have the pressure vent located at the top of the chamber which means that the steam (lighter than air) will never fully displace the air in the chamber. If a pressure cooker with a vent located at the bottom can be found this will be far superior to the standard design, however, a raised shelf inside the chamber can be added to give better confidence when sterilising non-hollow solids. 
+
+Two of the more advanced (and also not very cheap) can be found [here](http://www.sciencemadness.org/talk/viewthread.php?tid=14652#pid190003) and [here](https://www.shroomery.org/forums/showflat.php/Number/14182642). Due to its large size, the last one is even more expensive than used small commercial ones. This is, however, largely dependent on the needs one has for sterilization.
 
 ####4. Is DIY good enough and reasonable?
-While using a simple pressure cooker for sterilization seems to suffice, build a self-regulating system from it should be simple and cheap enough, for the needs of most DIY biologists, enable them to sterilize more sensitive material. The existing DIY devices are promising, however made for specific purposes and not generally required.
+Using a simple pressure cooker for sterilization will suffice in many instances. For labs requiring autoclaves capable of sterilising solid waste to a high level of certainty (e.g. labs dealing with genetically modified microbes in the EU) pressure cookers may not suffice and an autoclave capable of class B cycles should be sought. 
+
+The existing DIY devices are promising, however made for specific purposes and not generally required.
 
 ####5. Requirements and plans
-An autoclave should have the capabilities of preadjusted Temperature and pressure regulation, which is controlled by a feedback loop and a little electronics.
+A class N sterilisation capable autoclave should have the capabilities of preadjusted temperature and pressure regulation, which is controlled by a feedback loop and a little electronics. If possible the pressure vent should be located at the base of the chamber so that steam is able to fully displace the air in the chamber. A self-regulating system based on a pressure cooker should be simple and cheap enough for the needs of most DIY biologists and enable them to sterilize more sensitive material.
 
 ---
 
