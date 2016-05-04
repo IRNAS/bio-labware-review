@@ -8,6 +8,15 @@ As there is an overflow of possibilities and devices for laboratory use, it is n
 
 Anyone who wishes it, can add to our bio-labware review on Github directly! But to maintain more-or-less clear and structured content, we have prepared some instructions on how to contribute. This will make contributions easier for us, for you and everyone else as well. Every effort will be much appreciated!
 
+### Contribution structure
+
+Everyone is welcome to contribute o our review. If you wish to help us out, here are some guidelines:
+- The contributions should be made by making a new branch (Video: [how to make a branch](https://www.youtube.com/watch?v=oPpnCh7InLY&index=2&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)) and a pull request (Video: [how to make a pull request](https://www.youtube.com/watch?v=_NrSWLQsDL4&index=3&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV))
+- These will then be reviewed by a member of our team, who will either confirm the request in the main tree or give feedback for additional changes.
+- You are also welcome to file issues [here](https://github.com/symbiolab/bio-labware/issues/)
+
+### Contribution content
+
 1. The posts are written in github markdown syntax.
 
 2. All device-posts should have the same content structure, which is as follows:
