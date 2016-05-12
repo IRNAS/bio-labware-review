@@ -6,6 +6,7 @@
 - [General/wet preparation equipment](010_general_preparation.md)
   * [Fine Weighing Scale/ Microbalance](#Microbalance)
   * [Magnetic stirrer](#Magnetic-stirrer)
+  * [Overhead stirrer](#Overhead-stirrer)
   * [Rotation wheel / tube rotator](#rotation-wheel)
   * [Centrifuge](#Centrifuge)
   * [Vortex mixer](#Vortex-mixer)
@@ -86,6 +87,35 @@ Magnetic stirrers are cheap and easy to make, therefore we will try to establish
 
 ####6. Working around/without the device
 When not at hand, liquids can be stirred by hand with a clean glass rod. That is not ideal, however the simplest and cheapes alternative when the device is not available.
+
+---
+
+###Overhead stirrer <a id="Overhead-stirrer"></a>
+![Overhead_stirrer](http://store.sterilizers.com/emerchant/images/LAB/F20100157.gif)
+
+Source: http://store.sterilizers.com/Other-Products/Stirrers-Vortex-Mixers-Heating-Plates?code=LB&class=A04&desc=Overhead%20stirrers
+
+####1. Background
+An alternative method of stirring are overhead stirrers. In principle, these are "slower drills" with propellers at the end of a long shaft, that are placed into liquids and stir them directly. While perhaps not as elegant as magnetic stirrers, these devices are simpler in their construction and have greater power due to the direct stirring and are suitable for more very viscous liquids. They are also suitable for containers which lack a flat bottom surface.
+
+Keywords: overhead, stirrer
+
+####2. Commercial variants
+New overhead stirrers can be quite expensive, costing from a little below a thousand to a few thousand €, however, cheaper variants are available on ebay, starting at 100-150€.
+
+####3. Available DIY resources
+In principle, one could use a drill/dremel, or a kitchen mixer on a vertical stage and use it with a long cylinder with a propeller. Some documented DIY designs are also available on the internet. The 
+[Uemura](https://www.erowid.org/archive/rhodium/chemistry/equipment/overhead.html) design uses a kitchen mixer, but there are also more complex designs, such as [this one](https://www.thevespiary.org/rhodium/Rhodium/Vespiary/talk/index.php/topic,355.0.html).
+
+####4. Is DIY good enough and reasonable?
+Overhead stirrers are generally used for very viscous liquids, which, depending on the field of research of course, are relatively rarely used in Biology. From this perspective, it is definitely a good idea to use devices which are cheap and easily available. Even for more frequent use, the DIY alternatives seem to fulfill their job well.
+
+####5. Requirements and plans
+With the exception of higher required torque, overhead stirrers have similar requirements as magnetic stirrers (stirring speed, adjustability, etc.).
+
+####6. Working around/without the device
+Same as for the magnetic stirrer, liquids can be mixed by hand with a clean glass rod.
+
 ---
 
 ###Rotation wheel / tube rotator <a id="rotation-wheel"></a>
@@ -112,6 +142,7 @@ Rotating wheels / sample rotators should be capable to slowly stir liquid sample
 
 ####6. Working around/without the device
 With a bit of time, liquids can be slowly mixed by hand, as long as in a sealed container.
+
 ---
 
 ###Centrifuge <a id="Centrifuge"></a>
@@ -145,6 +176,7 @@ A laboratory centrifuge should have an adjustable rotation speed at least (0-700
 
 ####6. Working around/without the device
 /
+
 ---
 
 ###Vortex mixer <a id="Vortex-mixer"></a>
@@ -172,6 +204,7 @@ A vortex mixer should have an adjustable rotation speed (0-20Hz), on a small osc
 
 ####6. Working around/without the device
 Not as precise, but perhaps good enough for some procedures, vigorous shaking by hand can be done with sealed containers.
+
 ---
 
 ###Laboratory (orbital) shaker <a id="shaker"></a>
@@ -198,6 +231,7 @@ A laboratory shaker should have a stable platform, which allows the shaking of m
 
 ####6. Working around/without the device
 Carefull shaking by hand.
+
 ---
 
 ###Lab jack <a id="Lab-jack"></a>
@@ -273,6 +307,7 @@ The electronics will be assembled following the existing schematics, while exper
 
 ####6. Working around/without the device
 As a relatively cheap and also less precise alternative, pH indicators can be used, which often come in the form of strips or liquids and a comparison chart.
+
 ---
 
 ###Ultrasonic bath <a id="Ultrasonic-bath"></a>
