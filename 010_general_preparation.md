@@ -35,12 +35,12 @@
 Source: http://sci-toys.com/scitoys/scitoys/mathematics/microgram_balance/
 
 ####1. Background
-Precise weighing of chemicals in solution preparation, measuring small samples... Essential for any “wet” experiment, containing buffers and other solutions, which need to have a precise composition. Depending on the amounts of source material, the scales require the appropriate precision. For the average laboratory use, a precision of 0,001g or better is favorable.
+Precise weighing of chemicals in solution preparation, measuring small samples... Essential for any “wet” experiment, containing buffers and other solutions, which need to have a precise composition. Depending on the amounts of source material, the scales require the appropriate precision. For the average laboratory use, a precision of 0.001g or better is favorable.
 
 Keywords: fine, weighing, gram, milli, micro, precision, scale, balance
 
 ####2. Commercial variants
-The cheapest weighing scales with the appropriate precision, usually cost 100€ or more, higher quality devices around 300€. Scales capable of measuring differences in the microgram scope, can however also cost up to several 1000€ . On the other hand, devices with a 0,01g precision are already available for less than 20€.
+The cheapest weighing scales with the appropriate precision, usually cost 100€ or more, higher quality devices around 300€. Scales capable of measuring differences in the microgram scope, can however also cost up to several 1000€ . On the other hand, devices with a 0.01g precision are already available for less than 20€.
 
 ####3. Available DIY resources
 There are several fine weighing scale/microbalance projects on the internet. Most of them are easy to build, mechanical balances, such as [example 1](http://sci-toys.com/scitoys/scitoys/mathematics/microgram_balance/balance.html). While these can be precise, they are very impractical to work with, since they require balancing of samples against premade weights, which have discrete masses. There are far less DIY projects for digital scales, which could be due a relatively low necessity and the many factors, which can influence the precision and accuracy of such devices (balancing, temperature, nonlinearity...). There are still some available, such as [example 2](http://makezine.com/2008/03/25/diy-digital-balance/), with detailed [instructions](http://www.sci-spot.com/Mechanical/balance.htm), or [example 3](https://www.erowid.org/psychoactives/hardware/hardware_info1.shtml), [example 4](https://www.behance.net/gallery/8021801/Electronic-Weight-Scale-DIY-Kit). While all of these are capable of fine measurements, their precision and accuracy is questionable. An exception could be the [openQCM](http://openqcm.com/), suitable for submicrogram samples, which operates on the principle of measuring sample oscillation at high frequencies. It is fully open source, promises high precision and accuracy and offers support for Windows, Linux and Mac.
@@ -55,7 +55,8 @@ Whether it is reasonable to build your own weighing scale, strongly depends on t
 ####5. Requirements and plans
 The favoured specifications of a lab grade weighing scale is simple use, a precision of 0.001g, on a range from 0.001 - 500g. Possible improvements are measurement recording (wifi/cable/...), and the possibility of inverse measurement with appropriate adapters for tensile testing.
 
-
+####6. Working around/without the device
+Weighing scales are in principle the most basic devices, that are hard to work without, however, always a compromise between accuracy and price can be made.
 ---
 
 
@@ -83,6 +84,8 @@ Magnetic stirrers would definitely go in the category of equipment, where DIY is
 ####5. Requirements and plans
 Magnetic stirrers are cheap and easy to make, therefore we will try to establish our own model. The goal will be a stirrer, which is portable, yet can be connected to an external power supply. It should have an adjustable stirring speed (1-20Hz), which can, in addition to heating, possibly also be able to cool (0-100°C) and be controlled externally. It would be practical, to have one model without heating/cooling, which is compact and can be placed in climatized chambers (fridge, incubator).
 
+####6. Working around/without the device
+When not at hand, liquids can be stirred by hand with a clean glass rod. That is not ideal, however the simplest and cheapes alternative when the device is not available.
 ---
 
 ###Rotation wheel / tube rotator <a id="rotation-wheel"></a>
@@ -107,6 +110,8 @@ The expected requirements for sample rotators / rotating wheels are not very hig
 ####5. Requirements and plans
 Rotating wheels / sample rotators should be capable to slowly stir liquid samples in different small sized (up to 50ml) containers. They should allow the attachment of different container types, have an adjustable rotation angle and speed, which is still relatively slow (0-2Hz).
 
+####6. Working around/without the device
+With a bit of time, liquids can be slowly mixed by hand, as long as in a sealed container.
 ---
 
 ###Centrifuge <a id="Centrifuge"></a>
@@ -116,7 +121,7 @@ Rotating wheels / sample rotators should be capable to slowly stir liquid sample
 Source: https://diybiology.files.wordpress.com/2012/06/gogofuge-img_2205.jpg?w=600&h=450&crop=1
 
 ####1. Background
-Centrifuges are used for separation of substances in a liquid dispersion, depending on their differences in density. They are used in most “wet” experiments and are adapted for holding laboratory tubes, such as epis (eppendorf tubes), usually in sizes for 0,5, 1,5, or 2ml and falcons (conical centrifuge tubes), 15ml, 50ml,...
+Centrifuges are used for separation of substances in a liquid dispersion, depending on their differences in density. They are used in most “wet” experiments and are adapted for holding laboratory tubes, such as epis (eppendorf tubes), usually in sizes for 0.5, 1.5, or 2ml and falcons (conical centrifuge tubes), 15ml, 50ml,...
 The most important thing to be noted when working with centrifuges, is to make sure they are well balanced. The high rotation speeds (4000 rpm and above), can create strong forces, causing an unbalanced centrifuge to break and even endanger their environment.
 
 Keywords: centrifuge, micro, tubes
@@ -138,6 +143,8 @@ As there are so many different DIY models available, we will set out, to test a 
 ####5. Requirements and plans
 A laboratory centrifuge should have an adjustable rotation speed at least (0-7000 rpm) and time (0-60min) and be capable of spinning the size of tubes required for procedures carried out in a particular lab. A shoddy centrifuge is a considerable safety hazard so any centrifuge devices should also be safe and stable.
 
+####6. Working around/without the device
+/
 ---
 
 ###Vortex mixer <a id="Vortex-mixer"></a>
@@ -163,6 +170,8 @@ What would improve the device even more, would be exchangable mounts (for exampl
 ####5. Requirements and plans
 A vortex mixer should have an adjustable rotation speed (0-20Hz), on a small oscillation radius (~1cm). An improvement would be, the rotation starting at applied pressure and a time counter (seconds).
 
+####6. Working around/without the device
+Not as precise, but perhaps good enough for some procedures, vigorous shaking by hand can be done with sealed containers.
 ---
 
 ###Laboratory (orbital) shaker <a id="shaker"></a>
@@ -171,7 +180,7 @@ A vortex mixer should have an adjustable rotation speed (0-20Hz), on a small osc
 Source: http://www.instrumentchoice.com.au/instrument-choice/lab-equipment/Mixers/medium-orbital-shaker-analogue-sceom5
 
 ####1. Background
-A laboratory shaker is by operation very similar to the [vortex mixer](#Vortex-mixer), however, instead of a small sample holder, it has a larger surface, where multiple containers (flasks, beakers,...) can be placed and shaken. The shaking begins after turning the on switch and the rotation is substantially slower (0,1-5Hz) and has a wider radius, compared to the vortex mixer. The principle, however, is the same. Laboratory shakers, also orbital shakers, are devices used for even and slow stirring of liquid samples, often contained in glass utensils such as flasks, beakers, culture dishes. They are particularly usefull for gently suspending cell cultures/preventing sedimentation, without posing too much stress on the cells.
+A laboratory shaker is by operation very similar to the [vortex mixer](#Vortex-mixer), however, instead of a small sample holder, it has a larger surface, where multiple containers (flasks, beakers,...) can be placed and shaken. The shaking begins after turning the on switch and the rotation is substantially slower (0.1-5Hz) and has a wider radius, compared to the vortex mixer. The principle, however, is the same. Laboratory shakers, also orbital shakers, are devices used for even and slow stirring of liquid samples, often contained in glass utensils such as flasks, beakers, culture dishes. They are particularly usefull for gently suspending cell cultures/preventing sedimentation, without posing too much stress on the cells.
 
 Keywords: laboratory, orbital, shaker
 
@@ -187,6 +196,8 @@ The requirements for orbital shakers aren't very high, thus many of the DIY mode
 ####5. Requirements and plans
 A laboratory shaker should have a stable platform, which allows the shaking of multiple containers, and an adjustable rotation mechanism (speed, possibly rotation radius). Optional is also a time counter, showing for how long the shaking has already taken place.
 
+####6. Working around/without the device
+Carefull shaking by hand.
 ---
 
 ###Lab jack <a id="Lab-jack"></a>
@@ -247,7 +258,7 @@ Most commonly, the pH of a buffer, is adjusted by adding HCl or NaOH to a consta
 Keywords: pH, meter, oxonium, hydrogen, ions, concentration
 
 ####2. Commercial variants
-pH meters come in different forms, with various resolutions and accuracies. The cheapest variants are available for as little as 10€ (accuracy of pH 0,2), while lab-grade devices cost 300€ or more (accuracy of pH 0,01). The low-cost variants may just be sufficient for pools, or aquariums, they are probably not suitable for your laboratory. All devices require calibration solutions, which are used regularly and the process is all manual. A great chunk of the price is due to the quality of the sensor electrode.
+pH meters come in different forms, with various resolutions and accuracies. The cheapest variants are available for as little as 10€ (accuracy of pH 0.2), while lab-grade devices cost 300€ or more (accuracy of pH 0.01). The low-cost variants may just be sufficient for pools, or aquariums, they are probably not suitable for your laboratory. All devices require calibration solutions, which are used regularly and the process is all manual. A great chunk of the price is due to the quality of the sensor electrode.
 
 While the devices contain sensing electrodes in the package, these can be bought separately and exchanged. They are available for 20-100€ and require care and maintenance to work properly.
 
@@ -260,6 +271,8 @@ There are many DIY pH meters, which, at least with commercial electrodes, provid
 ####5. Requirements and plans
 The electronics will be assembled following the existing schematics, while experiments will be performed on the electrodes. Also, improvements for a wider applicability are planned. A pH meter should, with the assistance of calibration liquids, be capable of sensing the full pH range (1-14) of a solution, with a precision of 0,01.
 
+####6. Working around/without the device
+As a relatively cheap and also less precise alternative, pH indicators can be used, which often come in the form of strips or liquids and a comparison chart.
 ---
 
 ###Ultrasonic bath <a id="Ultrasonic-bath"></a>
@@ -356,3 +369,6 @@ It is currently difficult to comment on the state of DIY fume hoods, as little, 
 
 ####5. Requirements and plans
 As mentioned above, fume hoods for work with dangerous chemicals, shoud be constructed from inert materials and sustain suitable air flow, to protect the user.
+
+####6. Working around/without the device
+When working with volatile and dangerous compounds, a working fume hood should always be used! If the risks are not as high however, some simple tasks could be performed outdoors, where gas accumulation is less of an issue, if conditions alow it.
