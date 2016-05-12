@@ -202,6 +202,8 @@ Existing DIY projects do seem good enough, however, most of them are poorly docu
 ####5. Requirements and plans
 The pressure in the chamber needs to be low enough, to sustain a small amount of ionized gas particles, thus allowing high voltages without short-circuiting. An inert gas, like Argon is required, which does not react with the sputtering metal and controlled magnetic and electric fields are required to accelerate the gas towards the metal.
 
+####6. Working around/without the device
+If you have access to a SEM or STM, but not a sputter coater (which is probably not that likely), there are alternative methods of coating a surface with a conductive material which may, however, not be as precise. One possibility is chemical deposition of silver, by soaking a sample into a [silver nitrate mirror making mix](http://www.instructables.com/id/Make-Glass-Mirrors-With-Silver-Nitrate-Sugar-Am/). Another posibility is metal vapor deposition, by evaporating metals, such as silver by heating and placing the samples adjacently.
 ---
 
 
@@ -245,7 +247,7 @@ Keywords: atomic, force, microscope, surface, properties
 Commercial AFMs usually cost several 10k€ and up to a few 100k€. They come in many different forms, for a wide range of applicability (different sizes, mounted on a microscope, adjusted for wet samples, automated to different degrees, etc.).
 
 ####3. Available DIY resources
-In 2015, [a DIY AFM project](https://www.google.si/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjfp-TZtY7LAhWjCpoKHUZTAWgQFggmMAA&url=http%3A%2F%2Fwww.instructables.com%2Fid%2FA-Low-Cost-Atomic-Force-Microscope-%25E4%25BD%258E%25E6%2588%2590%25E6%259C%25AC%25E5%258E%259F%25E5%25AD%2590%25E5%258A%259B%25E9%25A1%25AF%25E5%25BE%25AE%25E9%258F%25A1%2F&usg=AFQjCNFu3gbfBGyaauqW24wfUmQ74zIzgA&sig2=Jc4-I4_iWZA_VJJw0O-Vww) was published in Nature Nanotechnology, which can be built by school children in a few hours and can successfully measure particles with a size of 2,5μm. This was part of the [OpenAFM](http://openafm.com/) project, supported by the LEGO foundation. One of the more advanced spin-offs for example, is the [Strømlingo nano](http://www.stromlinet-nano.com/), which is also available commercially for 2999$.
+In 2015, [a DIY AFM project](https://www.google.si/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjfp-TZtY7LAhWjCpoKHUZTAWgQFggmMAA&url=http%3A%2F%2Fwww.instructables.com%2Fid%2FA-Low-Cost-Atomic-Force-Microscope-%25E4%25BD%258E%25E6%2588%2590%25E6%259C%25AC%25E5%258E%259F%25E5%25AD%2590%25E5%258A%259B%25E9%25A1%25AF%25E5%25BE%25AE%25E9%258F%25A1%2F&usg=AFQjCNFu3gbfBGyaauqW24wfUmQ74zIzgA&sig2=Jc4-I4_iWZA_VJJw0O-Vww) was published in Nature Nanotechnology, which can be built by school children in a few hours and can successfully measure particles with a size of 2.5μm. This was part of the [OpenAFM](http://openafm.com/) project, supported by the LEGO foundation. One of the more advanced spin-offs for example, is the [Strømlingo nano](http://www.stromlinet-nano.com/), which is also available commercially for 2999$.
 
 ####4. Is DIY good enough and reasonable?
 The available DIY resources were actually created for educational purposes, however, they do achieve respectable specifications for a very low price. Whether they suffice for high end research is questionable. However, it should be noted, that open source devices can generally be easily modified for specific purposes, which is especially useful for AFMs, with their wide range of (typically very costly) forms and adaptations.
