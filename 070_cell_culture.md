@@ -33,7 +33,7 @@ Some cells (especially animal cells) are very sensitive to environmental changes
 Keywords: warm, water, bath
 
 ####2. Commercial variants
-Prices for warm water baths usually vary between 500 and 1000€, depending on the size, precision, etc.
+Prices for warm water baths usually vary between 500 and 1000€, depending on the size, precision, etc. An alternative to laboratory warm water baths are sous-vide cookers (slow cookers), which are available for less, but often show the same capabilities.
 
 ####3. Available DIY resources
 Interestingly, the existing "lab-grade" DIY warm water baths, mostly seem to come as adaptations of DIY slow cookers, such as [this one](https://learn.adafruit.com/sous-vide-powered-by-arduino-the-sous-viduino/). Two designs seem to do their job very well, which can be found [here](http://blog.labfab.cc/?p=47) and [here](http://makezine.com/projects/water-bath-thermostat/).
