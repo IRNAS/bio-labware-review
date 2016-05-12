@@ -204,6 +204,7 @@ The pressure in the chamber needs to be low enough, to sustain a small amount of
 
 ####6. Working around/without the device
 If you have access to a SEM or STM, but not a sputter coater (which is probably not that likely), there are alternative methods of coating a surface with a conductive material which may, however, not be as precise. One possibility is chemical deposition of silver, by soaking a sample into a [silver nitrate mirror making mix](http://www.instructables.com/id/Make-Glass-Mirrors-With-Silver-Nitrate-Sugar-Am/). Another posibility is metal vapor deposition, by evaporating metals, such as silver by heating and placing the samples adjacently.
+
 ---
 
 
