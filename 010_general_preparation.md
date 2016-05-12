@@ -58,6 +58,7 @@ The favoured specifications of a lab grade weighing scale is simple use, a preci
 
 ####6. Working around/without the device
 Weighing scales are in principle the most basic devices, that are hard to work without, however, always a compromise between accuracy and price can be made.
+
 ---
 
 
