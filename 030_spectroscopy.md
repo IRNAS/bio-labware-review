@@ -145,7 +145,7 @@ http://www.laboratoryequipment.com/articles/2013/03/raman-spectroscopy-tackles-p
 
 
 ####1. Background
-Raman spectroscopy is a technique, used to identify molecular bonds in a material, by observing their low-frequency vibrations. These are produced by Raman scattering of usually very intense monochromatic light. A laser beam is projected on a sample and the light from the illuminated spot is collected, filtered (reflected laser light is removed), difracted on a grating and the spectrum is recorded and analyzed. The so called "fingerprint" spectrum, which can be used for the identification of most bonds, lies between 400-1500 wavenumbers (<sup>-1</sup>), which reflects wavelengths in the IR spectrum. A great resource on Raman spectroscopy with much more information can be found [here](http://www.omegafilters.com/applications/raman-spectroscopy/).
+Raman spectroscopy is a technique, used to identify molecular bonds in a material, by observing their low-frequency vibrations. These are produced by Raman scattering of usually very intense monochromatic light. A laser beam is projected on a sample and the light from the illuminated spot is collected, filtered (reflected laser light is removed), difracted on a grating and the spectrum is recorded and analyzed. The so called "fingerprint" spectrum, which can be used for the identification of most bonds, lies between 400-1500 wavenumbers (cm <sup>-1</sup>), which reflects wavelengths in the IR spectrum. A great resource on Raman spectroscopy with much more information can be found [here](http://www.omegafilters.com/applications/raman-spectroscopy/).
 
 Keywords: raman, spectroscopy, wavenumber, molecular, identification
 
