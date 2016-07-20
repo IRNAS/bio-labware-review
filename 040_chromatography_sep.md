@@ -9,6 +9,7 @@
   * [High performace liquid chromatography (HPLC)](#HPLC)
   * [Gas chromatography (GC)](#GC)
   * [Gel electrophoresis](#Gel-electrophoresis)
+  * [Capillary electrophoresis](#CE)
 - [Chromatography (detection)](050_chromatography_det.md)
 - [Molecular Biology](060_molecular_biology.md)
 - [Cell culture](070_cell_culture.md)
@@ -114,3 +115,32 @@ For agarose gels, the available DIY solutions seem on par with commercial device
 
 ####5. Requirements and plans
 The requirements for gel electrophoresis are probably the same, as for any chromatography system: good separation, a broad range of samples which can be compared and control of the number and size of samples, flow rate, etc.
+
+
+---
+
+
+###Capillary electrophoresis <a id="CE"></a>
+
+![GC](https://upload.wikimedia.org/wikipedia/commons/3/37/Capillaryelectrophoresis.png)
+
+Source: By Apblum - CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=35013009
+
+####1. Background
+Similar to gel electrophoresis, capillary electrophoresis (CE) is driven by socalled electrokinesis - particles are moved through a buffer by an electric field, however, instead of a gel plate, a thin capillary is used as the separation medium. It is widely applicable, similar to HPLC, but despite being generally more efficient, is not being used as much as the competition. It is also only produced by a few vendors which keeps the prices relatively high.
+
+Keywords: capillary, electrophoresis
+
+####2. Commercial variants
+Used CE systems can cost from 10 000€ upwards, new devices will cost even more. In addition, the capillaries need to be replaced from time to time, which also cost approx. 10-100€ and are typically limited to a few suppliers.
+
+####3. Available DIY resources
+Until now, we only found one DIY capillary electrophoresis project, published on instructables.com by Gordana Ostojic and can be found [here](http://www.instructables.com/id/Capillary-Electrophoresis/).
+
+####4. Is DIY good enough and reasonable?
+It seems the system is suitable for the analysis of PCR products, however, it is not optimized yet (july 2016).
+
+####5. Requirements and plans
+Capillary electrophoresis is used for the separation of different products, can similar to HPLC be coupled with various detection methods and in general has similar requirements considering its functionality.
+
+---
