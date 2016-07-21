@@ -1,4 +1,4 @@
-##3D bio printing
+##Various methods
 
 ###Table of contents
 - [Overview](000_bio-labware_overview.md)
