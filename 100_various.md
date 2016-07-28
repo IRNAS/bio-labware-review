@@ -16,6 +16,7 @@
   * [3D imaging](100_various.md#imaging)
   * [Pumps and microfluidics](100_various.md#microfluidics)
   * [Optomechanical components](100_various.md#optics)
+  * [Sample handling](100_various.md#sample)
 
 ---
 
@@ -74,3 +75,11 @@ Optomechanical components is a name for any optical parts, such as lenses, which
 
 [motorized microscope stage with submicron precision](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0088977)
 
+
+###Sample handling <a id="sample"></a>
+
+####Short description
+This includes all devices, which can be used to work with samples and moving/transfering them.
+
+####Projects
+[OpenTrons](https://opentrons.com/)
