@@ -1,4 +1,4 @@
-#Bio Labware Review
+# Bio Labware Review
 
 ## Overview
 One of our goals at symbiolab is making a complete collection of affordable and DIY laboratory equipment, which is required for common methodology in a biological research lab. To do this, we will begin by making a list of required equipment, describing the hardware, its use, commercial costs (order of magnitude values in EUR, which is approximately in the price range of USD; 1€ = 1.14$ on 12. May 2016) and the current DIY status. This list will include links to some DIY examples, it will however not contain actual plans for our designs, this will come later (there will be links though, once available). To make the content more legible, the equipment will be organized into categories, such as preparation, microscopy, chromatography, etc.
@@ -7,7 +7,7 @@ Saying this, while we plan to collect as much DIY equipment as possible, it is i
 
 As there is an overflow of possibilities and devices for laboratory use, it is not unlikely, we will forget something in our list. If there is something that you miss, feel free to contact us and add suggestions or directly [contribute](CONTRIBUTE.md) by making a branch and pull request.
 
-##Table of contents
+## Table of contents
 
 - [Overview](000_bio-labware_overview.md)
 - [General/wet preparation equipment](010_general_preparation.md)
@@ -75,19 +75,19 @@ As there is an overflow of possibilities and devices for laboratory use, it is n
 <!---
 ###Title_name <a id="Title-name-no-spaces"></a>
 
-####1. Background
+#### 1. Background
 
 Keywords: 
 
-####2. Commercial variants
+#### 2. Commercial variants
 
-####3. Available DIY resources
+#### 3. Available DIY resources
 
 ![Name-of-displayed-image](images/image.jpg)
 
 _"[Image title](http://..) by "[Image owner](http://..)" is licensed under [CC BY-NC-SA 4.0](http://openqcm.com/)_
 
-####4. Is DIY good enough and reasonable?
+#### 4. Is DIY good enough and reasonable?
 
-####5. Plan
+#### 5. Plan
 -->
