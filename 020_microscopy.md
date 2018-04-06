@@ -1,6 +1,6 @@
-##Microscopy <a id="Microscopy"></a>
+## Microscopy <a id="Microscopy"></a>
 
-###Table of contents
+### Table of contents
 
 - [Overview](000_bio-labware_overview.md)
 - [General/wet preparation equipment](010_general_preparation.md)
@@ -26,110 +26,110 @@
 - [Various methods](100_various.md)
 
 
-###Introduction
+### Introduction
 The focus in this chapter lies in creating an overview of the more basic and general types of microscopy, for example optical microscopy, however, we DO NOT go into detail of more specialized and advanced techniques at this point (like confocal, phase contrast, interference microscopy, etc.). Hopefully, we will be able to fill in such gaps in the future. A fantastic resource on microscopes, how they work, advantages/dissadvantages, etc., can be found [here](http://www.microscopemaster.com/).
 
-###Stero microscope <a id="Stereo-microscope"></a>
+### Stero microscope <a id="Stereo-microscope"></a>
 ![stereo_microscope](https://cloud.githubusercontent.com/assets/17159617/13277752/8a57ddbc-dacb-11e5-83f2-5157752dbe4a.jpg)
 
 Source: http://www.amscope.com/7x-45x-inspection-dissecting-zoom-power-stereo-microscope-with-64-led-light.html
 
-####1. Background
+#### 1. Background
 Stereo microscopes are optical devices, designed for lower magnifications (usually up to 100x) and the observation of small to medium sized samples. Illumination is reflected from the sample and can come from an external source. The light travels through 2 optical paths, which improves the 3-dimensional visualization. Due to the available space between the sample and the optical parts, the set-up also allows for sample manipulation and further preparation for other methods.
 
 Keywords: stereo, binocular, microscope
 
-####2. Commercial variants
+#### 2. Commercial variants
 Commercial stereo microscopes cost from 150€ upwards, very fancy ones up to 1000€. The most expensive part of the device is probably the optics, which is hardly compensated by DIY devices, since quality lenses are extremely hard to produce DIY. In addition to the classical devices, there are also [digital microscopes](http://www.amazon.de/XCSOURCE%C2%AE-Magnifier-Digital-mikroskop-Endoskop-TE071/dp/B00N4K22OA/ref=sr_1_1?ie=UTF8&qid=1455540890&sr=8-1&keywords=digital+microscope) on the market, which are monocular, very cheap (25 - 60€) and have a similar constitution to the classical stereo microscopes and could serve the same function. They also offer very high magnification, although the resolution and focusing are questionable.
 
-####3. Available DIY resources
+#### 3. Available DIY resources
 As mentioned, it is irrational to make lenses and other optics from scratch, however, if there are resources for these, which are relatively cheap, it could make sense. There is just [one DIY design](http://www.funsci.com/fun3_en/uster2/uster2.htm) available at the moment, which uses a combination of different cheap binoculars. Binoculars are already available at amazon for a little more than 10€, so the construction seems worth-while.
 
-####4. Is DIY good enough and reasonable?
+#### 4. Is DIY good enough and reasonable?
 It is difficult to comment on the DIY soultions at this point, since not many are available. The requirements for a stero microscope are, however, relatively low, so a low cost device, as mentioned above, seems reasonable.
 
-####5. Requirements and plans
+#### 5. Requirements and plans
 The magnification and the focus, need to be gradually adjustable by hand. A minimum satisfactory maginifcation is probably about 50x, however, the device needs to have enough space between smaple and the lenses, to allow manipulation.
 
 ---
 
 
-###Classical optical microscope <a id="Optical-microscope"></a>
+### Classical optical microscope <a id="Optical-microscope"></a>
 ![normal_gastric_mucosa_low_mag](https://cloud.githubusercontent.com/assets/17159617/13277844/1eab62cc-dacc-11e5-96b5-64680ee06b7d.jpg)
 
 Source: https://en.wikipedia.org/wiki/Anatomy
 
-####1. Background
+#### 1. Background
 Microscopes were developed for observation of very small samples. Traditionally, the first encounter with microscopy comes via a classical optical microscope. In what we call "bright field" microscopy, light from a source is transmitted through a very thin sample, the image is then focused and magnified, through a system of lenses. To improve resolution and observability of the sample, this can be prepared in advance, by fixating, very thin sectioning, staining,... Commonly, optical microscopes enable magnifications of up to 1000x. Due to the limitations of visible light, highest magnifications mostly require immersion oils, for focus improvement.
 
 Keywords: Optical, bright, field, microscope
 
-####2. Commercial variants
+#### 2. Commercial variants
 Hobby microscopes can often be acquired for 150€ or less, these, however, typically have very poor optics, with low resolutions, depth of field, focus, etc. and consequently aren't really suitable for research. The simplest lab-grade microscopes are availabe from 300€ upwards, with a limit in the thousands of €. High prices are due to the optical requirements, however, new microscopes also have expensive features, which aren't always neccessary.
 
-####3. Available DIY resources
+#### 3. Available DIY resources
 There are a few DIY microscopes available at the moment, which use the optics of available devices, such as web-cams ([example 1](http://hackteria.org/wiki/DIY_microscopy), [example 2](http://www.instructables.com/id/Save-money-on-your-DIY-laboratory-robust-easy-to-f/)), [smartphones](http://www.instructables.com/id/10-Smartphone-to-digital-microscope-conversion/), etc. These can come very cheap (if you already have a smartphone) and are suitable for simple microscopy, but it depends, whether, they will suit your needs. A very important aspect of microscopy is also the precise control of the sample, relative to the objective. The [OpenFlexure](http://docubricks.com/projects/openflexure-microscope) design, allows the precise manipulation, presumably below 100nm, which is a powerful tool to integrate with other solutions.
 
-####4. Is DIY good enough and reasonable?
+#### 4. Is DIY good enough and reasonable?
 The important issues in microscopy are, as mentioned, sufficient lighting, focus and magnification. Lighting can be controlled with a light source, and the condenser (which also determines the angle and focus, at which light hits the sample), focus and magnification are typically determined by the objective lenses and the ocular. There are usually other issues as well. Microscopes usually have a very near depth of field, it is therefore crucial, that the samples are very thin. Also, since the light normally passes through different media before it hits the objective, it can diffract and distort the image. Therefore, at higher magnifications immersion oils are used to place between the objective and a cover slip, on top of the sample. With the available DIY resources, all of these factors are difficult to control, it is therefore questionable if they are good enough.
 
-####5. Requirements and plans
+#### 5. Requirements and plans
 A good microscope should have an adjustable light source (adjustable intensity, however, providing a very even ilumination), and the capabilities to focus light with a condenser. The microscopy optics should also enable good magnification, while retaining resolution. An optical microscope can be purely digital and based, for example, on a web-cam, however, we feel that improvements can be done on the existing models.
 
 ---
 
 
-###Fluorescence microscope <a id="Fluorescence-microscope"></a>
+### Fluorescence microscope <a id="Fluorescence-microscope"></a>
 ![fluorescent](https://cloud.githubusercontent.com/assets/17159617/13277949/c68c98e4-dacc-11e5-8420-79d6c14e8540.jpg)
 
 Source: http://www.scopem.ethz.ch/gallery/01.html
 
-####1. Background
+#### 1. Background
 A fluorescence microscope can be used for samples with luminescent (self-light-emitting) properties, like fluorescence, or photophorescence, where instead of transmitted or reflected light, the emitting light from the samples themselves is observed. In principle, its build-up is similar to a classical optical microscope, but in addition, it has a second light source with appropriate wavelengths, to excite the sample and cause it to emit its own light (with slightly longer wavelengths). Typically the excitatory light is reflected of a dichronic mirror (transmits some wavelenghts and reflects others), then travells through the objective, where it focuses on the visible part of the sample. The fluorescent light then travels back through the objective, but also through the dichronic mirror, towards the ocular.
 
 Keywords: fluorescence, photophorescence, luminescence, optical, microscope
 
-####2. Commercial variants
+#### 2. Commercial variants
 While it seems that the modification is a small one, fluorescent microscopes are substantially more expensive, compared to the classical optical ones, costing several thousand €, the cheaper ones around 3000€. The dichronic filters (mirrors) alone can cost 500-1000€, depending on their wavelength specificity. Also, the second light source will contribute to the expensiveness.
 
-####3. Available DIY resources
+#### 3. Available DIY resources
 DIY fluorescence microscopes typically use existing bright field microscopes as a base and integrate additional lighting and filters. Great examples are [example 1](http://makezine.com/2011/03/04/cheap-diy-gfp-green-fluorescent-protein-illuminator/) suitable for GFP and DsRED, and the more sophisticated [example 2](http://dm516.user.srcf.net/?p=107), also suitble for GFPs. The most advanced is probably the portable, bright field and fluorescence microscope - [The Global Focus microscope](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0011890), which is built from scratch for 240$, uses a simple flashlight for the light source and reaches a resolution of 0.8μm at a 1000x magnification.
 
-####4. Is DIY good enough and reasonable?
+#### 4. Is DIY good enough and reasonable?
 Maybe a bit surprising, though more difficult to make, DIY fluorescence microscopes seem to be more advanced than their classical bright-field counterparts. The Global Focus microscope project, seems to fulfill the expectations of a laboratory microscope. It could be even improved upon by integrating a steady, adjustable light source and a condensor lense for an improved signal. Also an additional digital camera would allow the capturing of images directly on a computer, which is important for recordings.
 
-####5. Requirements and plans
+#### 5. Requirements and plans
 A fluorescent microscope should in principle have the same optical capabilities as a bright-field microscope, with the addition of creating and detecting fluorescence. The latter is strongly depends on the light source and filters, and needs to be adjusted to the fluorescent material. When performing immunohistochemical analysis, the fluorophores/antibodies need to be acquired in accordance with the capabilities of the microscope.
 
 ---
 
 
-###Microtome <a id="Microtome"></a>
+### Microtome <a id="Microtome"></a>
 ![microtome](http://www.medequipsource.com/wp-content/uploads/Microtome-Ribbon-on-Leica-Microtome-Medical-Equipment-Source3.jpg)
 
 Source: http://www.medequipsource.com/microtome-cutting-tips-microtome-cutting-thick-and-think-sections-are-irregular-skipped/
 
 
-####1. Background
+#### 1. Background
 Microtomes are the main tool of sample preparation for optical microscopy. They mainly consist of a sample holder, containing the sample (which is fixed in somekind of solid medium like parafin, epoxi resins,...), a knife and a cyclic mechanism to cut the sample into thin slices. Typical "semi-thin" sections, suitble for optical microscopy are around 1μm thin, but for different purposes also sections of up to 100μm are used. There are a few methods of microtomy, like cryosection (rapid freezing of samples, allows the sectioning and analysis of a sample, while the rest of the tissue is kept intact), or ultramicrosection (creating very thin, ~70nm thick sections, suitable for electron microscopy), all using the same basic principle.
 
 Keywords: microtome, sectioning, semi, thin
 
-####2. Commercial variants
+#### 2. Commercial variants
 There are different forms of microtomes on the market, most common are rotary microtomes, which still have many variants. Manual to automatic, using steel, glass, or even diamond knives, appropriate for parafin, epoxy, or frozen samples. The most common semi-automated microtomes are fairly expensive, costing from 2000 - 10000€. It is crucial, that the sections are as thin as adjusted and cut evenly (up to 20nm thin), which requires very precise mechanics, thus the high price.
 
-####3. Available DIY resources
+#### 3. Available DIY resources
 DIY projects are a rarity at the moment, the reason for which is unknown. It is possible, that this is due to a high discrepancy between the research standards, compared to hobby requirements. Most DIY methods ([example 1](https://www.shroomery.org/forums/showflat.php/Number/15817715), [example 2](http://microgigapan.blogspot.si/2010/10/diy-microtome.html), [example 3](http://micro.sci-toys.com/microtome)) use a manual system, where the sample is placed on top of a bolt and the section thickness is set with a nut. Sections are prepared manually, by sliding over the nut with a blade. The most sophisticated DIY microtome at the moment is actually built from [LEGOs](http://www.instructables.com/id/Lego-Microtome/?ALLSTEPS) and can reach an estimated section thinness of 250μm.
 
-####4. Is DIY good enough and reasonable?
+#### 4. Is DIY good enough and reasonable?
 The current DIY status of microtomes is far from sufficient for serious microscopy. In any case, it should be possible build a DIY, maybe 3D prinatlbe microtome, producing even slices, the greater challenge would be achieving the required 1μm section range, or even go beyond, to ultrathin sections. For this endeavor, possibly a combination of mechanics and alternative processes can be used (for example temperature dependent expansion).
 
-####5. Requirements and plans
+#### 5. Requirements and plans
 As it is currently lacking, we will set out to develop a DIY microtome, which can be made from 3D printable parts, assebled easily, but will meet the requirements (or come very close at least) of commercial devices.
 
 ---
 
-###Transmission electron microscope <a id="TEM"></a>
+### Transmission electron microscope <a id="TEM"></a>
 ![cell_tem](https://cloud.githubusercontent.com/assets/17159617/13278119/287da362-dace-11e5-8ea8-ed00e47dab7d.jpg)
 
 Source: http://www.wormbook.org/chapters/www_intromethodscellbiology/intromethodscellbiology.html
